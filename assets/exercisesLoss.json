@@ -1,0 +1,442 @@
+[
+  {
+    "day": 1,
+    "focus": "Full Body Circuit + HIIT",
+    "exercises": [
+      {
+        "name": "Kettlebell Swings",
+        "muscle_group": "Full Body",
+        "sets": 4,
+        "reps": "20-25",
+        "equipment": "Kettlebell"
+      },
+      {
+        "name": "Burpees",
+        "muscle_group": "Full Body",
+        "sets": 4,
+        "reps": "15-20",
+        "equipment": "Bodyweight"
+      },
+      {
+        "name": "Battle Rope Waves",
+        "muscle_group": "Upper Body",
+        "sets": 3,
+        "reps": "30 seconds",
+        "equipment": "Battle Ropes"
+      },
+      {
+        "name": "Mountain Climbers",
+        "muscle_group": "Core",
+        "sets": 3,
+        "reps": "40-50",
+        "equipment": "Bodyweight"
+      },
+      {
+        "name": "Rowing Machine Sprints",
+        "muscle_group": "Full Body",
+        "sets": 5,
+        "reps": "200m",
+        "equipment": "Rowing Machine"
+      },
+      {
+        "name": "Jump Squats",
+        "muscle_group": "Lower Body",
+        "sets": 4,
+        "reps": "20-25",
+        "equipment": "Bodyweight"
+      },
+      {
+        "name": "Medicine Ball Slams",
+        "muscle_group": "Core",
+        "sets": 3,
+        "reps": "15-20",
+        "equipment": "Medicine Ball"
+      },
+      {
+        "name": "High Knees",
+        "muscle_group": "Cardio",
+        "sets": 4,
+        "reps": "30 seconds",
+        "equipment": "Bodyweight"
+      },
+      {
+        "name": "TRX Push-Pull Combos",
+        "muscle_group": "Upper Body",
+        "sets": 3,
+        "reps": "12-15",
+        "equipment": "TRX"
+      },
+      {
+        "name": "Box Jumps",
+        "muscle_group": "Lower Body",
+        "sets": 4,
+        "reps": "12-15",
+        "equipment": "Plyo Box"
+      },
+      {
+        "name": "Plank Jacks",
+        "muscle_group": "Core",
+        "sets": 3,
+        "reps": "20-25",
+        "equipment": "Bodyweight"
+      },
+      {
+        "name": "Air Bike Sprints",
+        "muscle_group": "Cardio",
+        "sets": 5,
+        "reps": "30 seconds",
+        "equipment": "Exercise Bike"
+      }
+    ]
+  },
+  {
+    "day": 2,
+    "focus": "Strength Training (Upper Body) + Metabolic Conditioning",
+    "exercises": [
+      {
+        "name": "Barbell Clean and Press",
+        "muscle_group": "Full Body",
+        "sets": 4,
+        "reps": "10-12",
+        "equipment": "Barbell"
+      },
+      {
+        "name": "Pull-Ups",
+        "muscle_group": "Back",
+        "sets": 4,
+        "reps": "AMRAP",
+        "equipment": "Bodyweight"
+      },
+      {
+        "name": "Dumbbell Thrusters",
+        "muscle_group": "Full Body",
+        "sets": 3,
+        "reps": "15-20",
+        "equipment": "Dumbbells"
+      },
+      {
+        "name": "TRX Atomic Push-Ups",
+        "muscle_group": "Chest/Core",
+        "sets": 3,
+        "reps": "12-15",
+        "equipment": "TRX"
+      },
+      {
+        "name": "Farmer's Carry",
+        "muscle_group": "Grip/Full Body",
+        "sets": 4,
+        "reps": "40m walk",
+        "equipment": "Kettlebells"
+      },
+      {
+        "name": "Jump Rope",
+        "muscle_group": "Cardio",
+        "sets": 5,
+        "reps": "100 rotations",
+        "equipment": "Jump Rope"
+      },
+      {
+        "name": "Medicine Ball Overhead Slams",
+        "muscle_group": "Core",
+        "sets": 3,
+        "reps": "20-25",
+        "equipment": "Medicine Ball"
+      },
+      {
+        "name": "Sled Pushes",
+        "muscle_group": "Lower Body",
+        "sets": 4,
+        "reps": "20m",
+        "equipment": "Sled"
+      },
+      {
+        "name": "Spiderman Push-Ups",
+        "muscle_group": "Chest/Core",
+        "sets": 3,
+        "reps": "10-12",
+        "equipment": "Bodyweight"
+      },
+      {
+        "name": "Battle Rope Alternating Waves",
+        "muscle_group": "Upper Body",
+        "sets": 3,
+        "reps": "30 seconds",
+        "equipment": "Battle Ropes"
+      },
+      {
+        "name": "Lateral Bound Jumps",
+        "muscle_group": "Lower Body",
+        "sets": 4,
+        "reps": "15 per side",
+        "equipment": "Bodyweight"
+      },
+      {
+        "name": "Rowing Machine Intervals",
+        "muscle_group": "Full Body",
+        "sets": 5,
+        "reps": "30s sprint/1min recovery",
+        "equipment": "Rowing Machine"
+      }
+    ]
+  },
+  {
+    "day": 3,
+    "focus": "Lower Body Power + Cardio Burn",
+    "exercises": [
+      {
+        "name": "Barbell Squats",
+        "muscle_group": "Legs",
+        "sets": 4,
+        "reps": "12-15",
+        "equipment": "Barbell"
+      },
+      {
+        "name": "Lunge Jumps",
+        "muscle_group": "Legs",
+        "sets": 4,
+        "reps": "20 total",
+        "equipment": "Bodyweight"
+      },
+      {
+        "name": "Deadlift High Pulls",
+        "muscle_group": "Posterior Chain",
+        "sets": 3,
+        "reps": "15-20",
+        "equipment": "Barbell"
+      },
+      {
+        "name": "Box Step-Ups with Knee Drive",
+        "muscle_group": "Legs",
+        "sets": 3,
+        "reps": "15 per leg",
+        "equipment": "Plyo Box"
+      },
+      {
+        "name": "Ski Erg Sprints",
+        "muscle_group": "Full Body",
+        "sets": 5,
+        "reps": "30 seconds",
+        "equipment": "Ski Erg"
+      },
+      {
+        "name": "Wall Ball Shots",
+        "muscle_group": "Full Body",
+        "sets": 4,
+        "reps": "20-25",
+        "equipment": "Medicine Ball"
+      },
+      {
+        "name": "Broad Jumps",
+        "muscle_group": "Legs",
+        "sets": 4,
+        "reps": "10-12",
+        "equipment": "Bodyweight"
+      },
+      {
+        "name": "Air Bike Intervals",
+        "muscle_group": "Cardio",
+        "sets": 5,
+        "reps": "45s hard/15s easy",
+        "equipment": "Exercise Bike"
+      },
+      {
+        "name": "Single-Leg Romanian Deadlifts",
+        "muscle_group": "Hamstrings",
+        "sets": 3,
+        "reps": "12 per leg",
+        "equipment": "Dumbbells"
+      },
+      {
+        "name": "Tire Flips",
+        "muscle_group": "Full Body",
+        "sets": 4,
+        "reps": "10-12",
+        "equipment": "Tire"
+      },
+      {
+        "name": "Plank to Squat Thrust",
+        "muscle_group": "Core/Legs",
+        "sets": 3,
+        "reps": "15-20",
+        "equipment": "Bodyweight"
+      },
+      {
+        "name": "Stair Sprints",
+        "muscle_group": "Cardio",
+        "sets": 6,
+        "reps": "1 flight",
+        "equipment": "Stairs"
+      }
+    ]
+  },
+  {
+    "day": 4,
+    "focus": "Active Recovery + Mobility",
+    "exercises": [
+      {
+        "name": "Foam Rolling",
+        "muscle_group": "Recovery",
+        "sets": 1,
+        "reps": "10 minutes",
+        "equipment": "Foam Roller"
+      },
+      {
+        "name": "Yoga Flow",
+        "muscle_group": "Flexibility",
+        "sets": 1,
+        "reps": "30 minutes",
+        "equipment": "Yoga Mat"
+      },
+      {
+        "name": "Swimming",
+        "muscle_group": "Low-Impact Cardio",
+        "sets": 1,
+        "reps": "20-30 minutes",
+        "equipment": "Pool"
+      },
+      {
+        "name": "Resistance Band Stretching",
+        "muscle_group": "Mobility",
+        "sets": 3,
+        "reps": "10-12 per side",
+        "equipment": "Resistance Bands"
+      }
+    ]
+  },
+  {
+    "day": 5,
+    "focus": "Metabolic Conditioning Complex",
+    "exercises": [
+      {
+        "name": "EMOM Circuit (Every Minute on the Minute)",
+        "muscle_group": "Full Body",
+        "sets": 20,
+        "reps": "5 exercises x 4 rounds",
+        "equipment": "Mixed",
+        "circuit": [
+          {
+            "name": "Power Cleans",
+            "reps": "10",
+            "equipment": "Barbell"
+          },
+          {
+            "name": "Box Jumps",
+            "reps": "12",
+            "equipment": "Plyo Box"
+          },
+          {
+            "name": "Push Press",
+            "reps": "10",
+            "equipment": "Dumbbells"
+          },
+          {
+            "name": "Toes-to-Bar",
+            "reps": "12",
+            "equipment": "Pull-Up Bar"
+          },
+          {
+            "name": "Double Unders",
+            "reps": "30",
+            "equipment": "Jump Rope"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 6,
+    "focus": "HIIT + Core Focus",
+    "exercises": [
+      {
+        "name": "Sprint Intervals",
+        "muscle_group": "Cardio",
+        "sets": 8,
+        "reps": "30s sprint/90s walk",
+        "equipment": "Treadmill"
+      },
+      {
+        "name": "TRX Pike Rollouts",
+        "muscle_group": "Core",
+        "sets": 4,
+        "reps": "12-15",
+        "equipment": "TRX"
+      },
+      {
+        "name": "Russian Twist with Med Ball",
+        "muscle_group": "Obliques",
+        "sets": 3,
+        "reps": "20 per side",
+        "equipment": "Medicine Ball"
+      },
+      {
+        "name": "Hollow Body Rockers",
+        "muscle_group": "Core",
+        "sets": 3,
+        "reps": "15-20",
+        "equipment": "Bodyweight"
+      },
+      {
+        "name": "Assault Bike Intervals",
+        "muscle_group": "Full Body",
+        "sets": 5,
+        "reps": "20s max effort/40s recovery",
+        "equipment": "Assault Bike"
+      },
+      {
+        "name": "Dragon Flags",
+        "muscle_group": "Core",
+        "sets": 3,
+        "reps": "8-10",
+        "equipment": "Bodyweight"
+      },
+      {
+        "name": "Rope Climbs",
+        "muscle_group": "Upper Body",
+        "sets": 3,
+        "reps": "3-5",
+        "equipment": "Climbing Rope"
+      },
+      {
+        "name": "L-Sit Hold",
+        "muscle_group": "Core",
+        "sets": 3,
+        "reps": "20-30 seconds",
+        "equipment": "Parallel Bars"
+      }
+    ]
+  },
+  {
+    "day": 7,
+    "focus": "Endurance Day",
+    "exercises": [
+      {
+        "name": "Long Distance Run",
+        "muscle_group": "Cardio",
+        "sets": 1,
+        "reps": "45-60 minutes",
+        "equipment": "Treadmill/Track"
+      },
+      {
+        "name": "Cycling Endurance Ride",
+        "muscle_group": "Lower Body",
+        "sets": 1,
+        "reps": "60 minutes",
+        "equipment": "Exercise Bike"
+      },
+      {
+        "name": "Rowing Marathon",
+        "muscle_group": "Full Body",
+        "sets": 1,
+        "reps": "5000m",
+        "equipment": "Rowing Machine"
+      },
+      {
+        "name": "Swim Laps",
+        "muscle_group": "Full Body",
+        "sets": 1,
+        "reps": "30-45 minutes",
+        "equipment": "Pool"
+      }
+    ]
+  }
+]

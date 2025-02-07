@@ -1,0 +1,547 @@
+[
+  {
+    "day": 1,
+    "focus": "Push (Chest, Shoulders, Triceps)",
+    "exercises": [
+      {
+        "name": "Barbell Bench Press",
+        "muscle_group": "Chest",
+        "sets": 4,
+        "reps": "8-12",
+        "equipment": "Barbell"
+      },
+      {
+        "name": "Incline Dumbbell Press",
+        "muscle_group": "Chest",
+        "sets": 3,
+        "reps": "10-12",
+        "equipment": "Dumbbells"
+      },
+      {
+        "name": "Overhead Dumbbell Shoulder Press",
+        "muscle_group": "Shoulders",
+        "sets": 3,
+        "reps": "8-10",
+        "equipment": "Dumbbells"
+      },
+      {
+        "name": "Cable Lateral Raises",
+        "muscle_group": "Shoulders",
+        "sets": 3,
+        "reps": "12-15",
+        "equipment": "Cable Machine"
+      },
+      {
+        "name": "Tricep Dips",
+        "muscle_group": "Triceps",
+        "sets": 3,
+        "reps": "10-12",
+        "equipment": "Bodyweight"
+      },
+      {
+        "name": "Tricep Rope Pushdowns",
+        "muscle_group": "Triceps",
+        "sets": 3,
+        "reps": "12-15",
+        "equipment": "Cable Machine"
+      },
+      {
+        "name": "Push-Ups",
+        "muscle_group": "Chest",
+        "sets": 4,
+        "reps": "8-12",
+        "equipment": "Bodyweight"
+      },
+      {
+        "name": "Incline Push-Ups",
+        "muscle_group": "Chest",
+        "sets": 3,
+        "reps": "10-15",
+        "equipment": "Bodyweight"
+      },
+      {
+        "name": "Pike Push-Ups",
+        "muscle_group": "Shoulders",
+        "sets": 3,
+        "reps": "8-12",
+        "equipment": "Bodyweight"
+      },
+      {
+        "name": "Arm Circles",
+        "muscle_group": "Shoulders",
+        "sets": 3,
+        "reps": "30 seconds",
+        "equipment": "Bodyweight"
+      },
+      {
+        "name": "Tricep Dips on a Chair",
+        "muscle_group": "Triceps",
+        "sets": 3,
+        "reps": "10-12",
+        "equipment": "Bodyweight"
+      },
+      {
+        "name": "Diamond Push-Ups",
+        "muscle_group": "Triceps",
+        "sets": 3,
+        "reps": "8-12",
+        "equipment": "Bodyweight"
+      }
+    ]
+  },
+  {
+    "day": 2,
+    "focus": "Pull (Back, Biceps, Rear Delts)",
+    "exercises": [
+      {
+        "name": "Pull-Ups",
+        "muscle_group": "Back",
+        "sets": 4,
+        "reps": "8-12",
+        "equipment": "Bodyweight"
+      },
+      {
+        "name": "Barbell Bent-Over Rows",
+        "muscle_group": "Back",
+        "sets": 4,
+        "reps": "8-12",
+        "equipment": "Barbell"
+      },
+      {
+        "name": "Lat Pulldown",
+        "muscle_group": "Back",
+        "sets": 3,
+        "reps": "10-12",
+        "equipment": "Cable Machine"
+      },
+      {
+        "name": "Face Pulls",
+        "muscle_group": "Rear Delts",
+        "sets": 3,
+        "reps": "12-15",
+        "equipment": "Cable Machine"
+      },
+      {
+        "name": "Dumbbell Bicep Curls",
+        "muscle_group": "Biceps",
+        "sets": 3,
+        "reps": "10-12",
+        "equipment": "Dumbbells"
+      },
+      {
+        "name": "Hammer Curls",
+        "muscle_group": "Biceps",
+        "sets": 3,
+        "reps": "12-15",
+        "equipment": "Dumbbells"
+      },
+      {
+        "name": "Inverted Rows",
+        "muscle_group": "Back",
+        "sets": 3,
+        "reps": "10-12",
+        "equipment": "Bodyweight"
+      },
+      {
+        "name": "Superman Holds",
+        "muscle_group": "Back",
+        "sets": 3,
+        "reps": "20-30 seconds",
+        "equipment": "Bodyweight"
+      },
+      {
+        "name": "Reverse Snow Angels",
+        "muscle_group": "Rear Delts",
+        "sets": 3,
+        "reps": "12-15",
+        "equipment": "Bodyweight"
+      },
+      {
+        "name": "Bodyweight Bicep Curls",
+        "muscle_group": "Biceps",
+        "sets": 3,
+        "reps": "8-10",
+        "equipment": "Bodyweight"
+      },
+      {
+        "name": "Arch Hangs",
+        "muscle_group": "Back",
+        "sets": 3,
+        "reps": "30 seconds",
+        "equipment": "Bodyweight"
+      },
+      {
+        "name": "Wall Angels",
+        "muscle_group": "Rear Delts",
+        "sets": 3,
+        "reps": "10-12",
+        "equipment": "Bodyweight"
+      }
+    ]
+  },
+  {
+    "day": 3,
+    "focus": "Legs (Quads, Hamstrings, Glutes, Calves)",
+    "exercises": [
+      {
+        "name": "Barbell Squats",
+        "muscle_group": "Quads",
+        "sets": 4,
+        "reps": "8-12",
+        "equipment": "Barbell"
+      },
+      {
+        "name": "Romanian Deadlifts",
+        "muscle_group": "Hamstrings",
+        "sets": 3,
+        "reps": "10-12",
+        "equipment": "Barbell"
+      },
+      {
+        "name": "Walking Lunges",
+        "muscle_group": "Glutes",
+        "sets": 3,
+        "reps": "12 steps per leg",
+        "equipment": "Dumbbells"
+      },
+      {
+        "name": "Leg Press",
+        "muscle_group": "Quads",
+        "sets": 4,
+        "reps": "10-12",
+        "equipment": "Machine"
+      },
+      {
+        "name": "Seated Calf Raises",
+        "muscle_group": "Calves",
+        "sets": 4,
+        "reps": "15-20",
+        "equipment": "Machine"
+      },
+      {
+        "name": "Standing Calf Raises",
+        "muscle_group": "Calves",
+        "sets": 3,
+        "reps": "12-15",
+        "equipment": "Bodyweight"
+      },
+      {
+        "name": "Bodyweight Squats",
+        "muscle_group": "Quads",
+        "sets": 3,
+        "reps": "15-20",
+        "equipment": "Bodyweight"
+      },
+      {
+        "name": "Glute Bridges",
+        "muscle_group": "Glutes",
+        "sets": 3,
+        "reps": "12-15",
+        "equipment": "Bodyweight"
+      },
+      {
+        "name": "Bulgarian Split Squats",
+        "muscle_group": "Quads",
+        "sets": 3,
+        "reps": "10-12 per leg",
+        "equipment": "Bodyweight"
+      },
+      {
+        "name": "Single-Leg Deadlifts",
+        "muscle_group": "Hamstrings",
+        "sets": 3,
+        "reps": "10-12 per leg",
+        "equipment": "Bodyweight"
+      },
+      {
+        "name": "Calf Jumps",
+        "muscle_group": "Calves",
+        "sets": 3,
+        "reps": "15-20",
+        "equipment": "Bodyweight"
+      },
+      {
+        "name": "Side Lunges",
+        "muscle_group": "Glutes",
+        "sets": 3,
+        "reps": "12 per side",
+        "equipment": "Bodyweight"
+      }
+    ]
+  },
+  {
+    "day": 4,
+    "focus": "Rest or Active Recovery",
+    "exercises": []
+  },
+  {
+    "day": 5,
+    "focus": "Push (Chest, Shoulders, Triceps)",
+    "exercises": [
+      {
+        "name": "Incline Barbell Bench Press",
+        "muscle_group": "Chest",
+        "sets": 4,
+        "reps": "8-12",
+        "equipment": "Barbell"
+      },
+      {
+        "name": "Flat Dumbbell Flys",
+        "muscle_group": "Chest",
+        "sets": 3,
+        "reps": "12-15",
+        "equipment": "Dumbbells"
+      },
+      {
+        "name": "Arnold Press",
+        "muscle_group": "Shoulders",
+        "sets": 3,
+        "reps": "10-12",
+        "equipment": "Dumbbells"
+      },
+      {
+        "name": "Cable Front Raises",
+        "muscle_group": "Shoulders",
+        "sets": 3,
+        "reps": "12-15",
+        "equipment": "Cable Machine"
+      },
+      {
+        "name": "Close-Grip Bench Press",
+        "muscle_group": "Triceps",
+        "sets": 3,
+        "reps": "8-10",
+        "equipment": "Barbell"
+      },
+      {
+        "name": "Overhead Dumbbell Tricep Extension",
+        "muscle_group": "Triceps",
+        "sets": 3,
+        "reps": "10-12",
+        "equipment": "Dumbbells"
+      },
+      {
+        "name": "Decline Push-Ups",
+        "muscle_group": "Chest",
+        "sets": 3,
+        "reps": "10-12",
+        "equipment": "Bodyweight"
+      },
+      {
+        "name": "Handstand Push-Ups",
+        "muscle_group": "Shoulders",
+        "sets": 3,
+        "reps": "6-8",
+        "equipment": "Bodyweight"
+      },
+      {
+        "name": "Plank to Push-Up",
+        "muscle_group": "Triceps",
+        "sets": 3,
+        "reps": "10-12",
+        "equipment": "Bodyweight"
+      },
+      {
+        "name": "Wide Push-Ups",
+        "muscle_group": "Chest",
+        "sets": 3,
+        "reps": "12-15",
+        "equipment": "Bodyweight"
+      },
+      {
+        "name": "Shoulder Tap Push-Ups",
+        "muscle_group": "Shoulders",
+        "sets": 3,
+        "reps": "10 per side",
+        "equipment": "Bodyweight"
+      },
+      {
+        "name": "Tricep Bench Dips",
+        "muscle_group": "Triceps",
+        "sets": 3,
+        "reps": "12-15",
+        "equipment": "Bodyweight"
+      }
+    ]
+  },
+  {
+    "day": 6,
+    "focus": "Pull (Back, Biceps, Rear Delts)",
+    "exercises": [
+      {
+        "name": "Deadlifts",
+        "muscle_group": "Back",
+        "sets": 4,
+        "reps": "6-8",
+        "equipment": "Barbell"
+      },
+      {
+        "name": "T-Bar Rows",
+        "muscle_group": "Back",
+        "sets": 3,
+        "reps": "8-12",
+        "equipment": "Barbell"
+      },
+      {
+        "name": "Chin-Ups",
+        "muscle_group": "Biceps",
+        "sets": 3,
+        "reps": "8-10",
+        "equipment": "Bodyweight"
+      },
+      {
+        "name": "Dumbbell Rear Delt Flys",
+        "muscle_group": "Rear Delts",
+        "sets": 3,
+        "reps": "12-15",
+        "equipment": "Dumbbells"
+      },
+      {
+        "name": "EZ Bar Bicep Curls",
+        "muscle_group": "Biceps",
+        "sets": 3,
+        "reps": "10-12",
+        "equipment": "Barbell"
+      },
+      {
+        "name": "Reverse Grip Barbell Curls",
+        "muscle_group": "Biceps",
+        "sets": 3,
+        "reps": "12-15",
+        "equipment": "Barbell"
+      },
+      {
+        "name": "Bodyweight Rows",
+        "muscle_group": "Back",
+        "sets": 3,
+        "reps": "10-12",
+        "equipment": "Bodyweight"
+      },
+      {
+        "name": "YTWL Raises",
+        "muscle_group": "Rear Delts",
+        "sets": 3,
+        "reps": "10-12",
+        "equipment": "Bodyweight"
+      },
+      {
+        "name": "Isometric Pull-Up Holds",
+        "muscle_group": "Biceps",
+        "sets": 3,
+        "reps": "20-30 seconds",
+        "equipment": "Bodyweight"
+      },
+      {
+        "name": "Prone Cobra",
+        "muscle_group": "Rear Delts",
+        "sets": 3,
+        "reps": "30 seconds",
+        "equipment": "Bodyweight"
+      },
+      {
+        "name": "Towel Grip Pull-Ups",
+        "muscle_group": "Biceps",
+        "sets": 3,
+        "reps": "6-8",
+        "equipment": "Bodyweight"
+      },
+      {
+        "name": "Reverse Plank",
+        "muscle_group": "Back",
+        "sets": 3,
+        "reps": "30 seconds",
+        "equipment": "Bodyweight"
+      }
+    ]
+  },
+  {
+    "day": 7,
+    "focus": "Legs (Quads, Hamstrings, Glutes, Calves)",
+    "exercises": [
+      {
+        "name": "Front Squats",
+        "muscle_group": "Quads",
+        "sets": 4,
+        "reps": "8-12",
+        "equipment": "Barbell"
+      },
+      {
+        "name": "Hip Thrusts",
+        "muscle_group": "Glutes",
+        "sets": 4,
+        "reps": "8-12",
+        "equipment": "Barbell"
+      },
+      {
+        "name": "Step-Ups",
+        "muscle_group": "Quads",
+        "sets": 3,
+        "reps": "10-12 per leg",
+        "equipment": "Dumbbells"
+      },
+      {
+        "name": "Leg Curl",
+        "muscle_group": "Hamstrings",
+        "sets": 3,
+        "reps": "12-15",
+        "equipment": "Machine"
+      },
+      {
+        "name": "Donkey Calf Raises",
+        "muscle_group": "Calves",
+        "sets": 4,
+        "reps": "15-20",
+        "equipment": "Machine"
+      },
+      {
+        "name": "Seated Calf Raises",
+        "muscle_group": "Calves",
+        "sets": 3,
+        "reps": "12-15",
+        "equipment": "Machine"
+      },
+      {
+        "name": "Pistol Squats",
+        "muscle_group": "Quads",
+        "sets": 3,
+        "reps": "6-8 per leg",
+        "equipment": "Bodyweight"
+      },
+      {
+        "name": "Single-Leg Glute Bridges",
+        "muscle_group": "Glutes",
+        "sets": 3,
+        "reps": "12 per leg",
+        "equipment": "Bodyweight"
+      },
+      {
+        "name": "Jump Squats",
+        "muscle_group": "Quads",
+        "sets": 3,
+        "reps": "15-20",
+        "equipment": "Bodyweight"
+      },
+      {
+        "name": "Bodyweight Calf Raises",
+        "muscle_group": "Calves",
+        "sets": 3,
+        "reps": "20-25",
+        "equipment": "Bodyweight"
+      },
+      {
+        "name": "Lateral Lunges",
+        "muscle_group": "Glutes",
+        "sets": 3,
+        "reps": "12 per side",
+        "equipment": "Bodyweight"
+      },
+      {
+        "name": "Wall Sit",
+        "muscle_group": "Quads",
+        "sets": 3,
+        "reps": "60 seconds",
+        "equipment": "Bodyweight"
+      }
+    ]
+  }
+]

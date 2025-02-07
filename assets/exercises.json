@@ -1,0 +1,764 @@
+[
+  {
+    "id": 1,
+    "name": "Incline Dumbbell Press",
+    "videoShortDemo": "https://app.fitnessai.com/exercises/03141201-Dumbbell-Incline-Bench-Press-Chest.mp4",
+    "videoInDepthExpl": "https://youtu.be/bR_dKXdtfrQ?si=j0N0jcw51DZkWJS0",
+    "proTip": "Select an incline between 30º-45º and stick with it. The higher the incline, the more you'll train your shoulder muscles.",
+    "steps": [
+      "Lie flat on the bench so that your head, upper back, lower back, and both feet are firmly pressed against the bench and ground at all points while holding two dumbbells at shoulder level with an overhand grip.",
+      "Exhale and press through both hands to raise the dumbbells up and towards each other.",
+      "Continue until your arms are fully extended.",
+      "Inhale and lower your arms, returning to the starting position."
+    ],
+    "typeMuscle": {
+      "name": "Upper Chest",
+      "description": "Smallest portion of your chest, spanning from your clavicle to your shoulder. It takes up a very small area of your chest and is multiple times smaller than your sternal head.",
+      "image": "https://app.fitnessai.com/musclegroups/full/08751101-Chest-UPPER_transparent.png"
+    },
+    "equipment": [
+      {
+        "name": "Dumbbells",
+        "advice": "When gripping dumbbells, make sure you position your hands in the middle of the bar and not at the end next to the plates."
+      },
+      {
+        "name": "Incline (Adjustable) Bench Without Rack",
+        "advice": "You can adjust this bench to various angles depending on your goals. If other rackless bench types are unavailable, you might be able to use this one as a substitute. Only substitute for benches you can match the angle of."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Cable Crossover Row",
+    "videoShortDemo": "https://app.fitnessai.com/exercises/01531201-Cable-Cross-over-Lateral-Pulldown-Back.mp4",
+    "videoInDepthExpl": "",
+    "proTip": "If the handles you use are uncomfortable, try switching them out for similar ones with a different grip.",
+    "steps": [
+      "Stand upright and grab the cable on either side of you with your opposing hand.",
+      "Exhale and lower your arms back towards your body, tucking your elbows in towards your sides and squeezing your shoulder blades together.",
+      "Continue until your elbows pass behind your back.",
+      "Inhale and allow your elbows to extend and arms to raise, returning to the starting position."
+    ],
+    "typeMuscle": {
+      "name": "Upper Back",
+      "description": "A significant portion of the upper region of your back. It is widest in the middle, forming a diamond shape that connects the middle of your back to both of your shoulder blades and the upper portion of your neck. It is comprised of three regions. Each region has a different function and is trained in different ways.",
+      "image": "https://app.fitnessai.com/musclegroups/full/08761101-Trapezius_transparent.png"
+    },
+    "equipment": [
+      {
+        "name": "Close Pulley Towers",
+        "advice": "If no other options are available, you can use far pulley towers instead. However this is not preferable."
+      },
+      {
+        "name": "Single Grip Handles",
+        "advice": "Some exercises may require you to use only one handle. Pay close attention to the animation to verify the number of handles needed."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Decline Dumbbell Bench Press",
+    "videoShortDemo": "https://app.fitnessai.com/exercises/03011201-Dumbbell-Decline-Bench-Press-Chest.mp4",
+    "videoInDepthExpl": "",
+    "proTip": "You can adjust the angle of the bench to change the difficulty of this movement.",
+    "steps": [
+      "Lie flat on the bench so that your head, upper back, and lower back are firmly pressed against the bench and ground at all points, with your feet secured by the pad.",
+      "Holding one dumbbell in each hand with an overhand grip at the level of your chest, exhale and push both of your hands up and towards each other.",
+      "Continue pushing until your arms are fully extended and just before the dumbbells meet.",
+      "Inhale and lower the dumbbells back down to the starting position."
+    ],
+    "typeMuscle": {
+      "name": "Lower Chest",
+      "description": "Largest portion of your chest, spanning from your sternum to your shoulder. It takes up a majority of your chest and is multiple times larger than your clavicular head.",
+      "image": "https://app.fitnessai.com/musclegroups/full/08751101-Chest-LOWER_transparent.png"
+    },
+    "equipment": [
+      {
+        "name": "Decline Bench Without Rack",
+        "advice": "If you can't find this bench, consider using a decline bench with rack instead. If your exercise requires you to use a barbell or bar, you cannot substitute. If you do not need to use either, you probably can substitute."
+      },
+      {
+        "name": "Dumbbells",
+        "advice": "When gripping dumbbells, make sure you position your hands in the middle of the bar and not at the end next to the plates."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Decline Dumbbell Chest Fly",
+    "videoShortDemo": "4.mp4",
+    "videoInDepthExpl": "URL_to_In_Depth_Expl",
+    "proTip": "For added benefit, squeeze your chest tightly while bringing the dumbbells together.",
+    "steps": [
+      "Lie flat on the bench so that your head, upper back, and lower back are firmly pressed against the bench and ground at all points, with your feet secured by the pad.",
+      "Hold one dumbbell in each hand at shoulder level with your arms fully outstretched to your sides and palms facing up.",
+      "Exhale and bring your arms together.",
+      "Continue bringing your arms together until your hands are about 1 inch from each other.",
+      "Inhale and lower the dumbbells until you return to the starting position."
+    ],
+    "typeMuscle": {
+      "name": "Lower Chest",
+      "description": "Largest portion of your chest, spanning from your sternum to your shoulder. It takes up a majority of your chest and is multiple times larger than your clavicular head.",
+      "image": "https://app.fitnessai.com/musclegroups/full/08751101-Chest-LOWER_transparent.png"
+    },
+    "equipment": [
+      {
+        "name": "Decline Bench Without Rack",
+        "advice": "If you can't find this bench, consider using a decline bench with rack instead. If your exercise requires you to use a barbell or bar, you cannot substitute. If you do not need to use either, you probably can substitute."
+      },
+      {
+        "name": "Dumbbells",
+        "advice": "When gripping dumbbells, make sure you position your hands in the middle of the bar and not at the end next to the plates."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Chest Fly Machine",
+    "videoShortDemo": "5.mp4",
+    "videoInDepthExpl": "",
+    "proTip": "Try to momentarily squeeze your chest consciously when your hands are close together for added benefit.",
+    "steps": [
+      "Sit on the machine with arms fully extended in line with your torso at the level of the middle of your chest.",
+      "Exhale and bring your arms together while keeping them straight.",
+      "Continue bringing your arms together until your hands are about 1 inch from each other.",
+      "Inhale and bring your arms back to your sides, returning to the starting position."
+    ],
+    "typeMuscle": {
+      "name": "Lower Chest",
+      "description": "Largest portion of your chest, spanning from your sternum to your shoulder. It takes up a majority of your chest and is multiple times larger than your clavicular head.",
+      "image": "https://app.fitnessai.com/musclegroups/full/08751101-Chest-LOWER_transparent.png"
+    },
+    "equipment": [
+      {
+        "name": "Fly Machine",
+        "advice": "This machine can help you improve your bench press strength."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Dumbbell Fly",
+    "videoShortDemo": "6.mp4",
+    "videoInDepthExpl": "",
+    "proTip": "For added benefit, squeeze your chest consciously as you bring your arms together.",
+    "steps": [
+      "Lie flat on the bench so that your head, upper back, lower back, and both feet are firmly pressed against the bench and ground at all points.",
+      "Hold one dumbbell in each hand at shoulder level with your arms fully outstretched to your sides and palms facing up.",
+      "Exhale and bring your arms together.",
+      "Continue bringing your arms together until your hands are about 1 inch from each other.",
+      "Inhale and lower the dumbbells until you return to the starting position."
+    ],
+    "typeMuscle": {
+      "name": "Upper Chest",
+      "description": "Smallest portion of your chest, spanning from your clavicle to your shoulder. It takes up a very small area of your chest and is multiple times smaller than your sternal head.",
+      "image": "https://app.fitnessai.com/musclegroups/full/08751101-Chest-UPPER_transparent.png"
+    },
+    "equipment": [
+      {
+        "name": "Dumbbells",
+        "advice": "When gripping dumbbells, make sure you position your hands in the middle of the bar and not at the end next to the plates."
+      },
+      {
+        "name": "Flat Bench Without Rack",
+        "advice": "If you can't find this bench, consider using a flat bench with rack instead. If your exercise requires you to use a barbell or bar, you cannot substitute. If you do not need to use either, you probably can substitute."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Pull Up",
+    "videoShortDemo": "7.mp4",
+    "videoInDepthExpl": "",
+    "proTip": "If you want to increase the difficulty of this movement, hold a dumbbell between your feet by pressing them tightly together throughout the entire movement.",
+    "steps": [
+      "Grab the bar with an overhand grip much wider than shoulder-width apart while keeping your legs straight below you.",
+      "Exhale and pull yourself up toward the bar by bending your arms, driving your elbows down to your sides, and driving your shoulder blades down and together.",
+      "Continue until your chin passes the bar.",
+      "Inhale and allow yourself to lower your body down until your arms are fully extended, returning to the starting position."
+    ],
+    "typeMuscle": {
+      "name": "Lats",
+      "description": "Largest muscle of your back, spanning from the lower to middle regions creating a v shape.",
+      "image": "https://app.fitnessai.com/musclegroups/full/08761101-Latissimus-Dorsi_transparent.png"
+    },
+    "equipment": [
+      {
+        "name": "Bodyweight",
+        "advice": "This means that the exercise requires you to use your bodyweight as resistance but you also need other \"equipment\" to successfully perform the exercise."
+      },
+      {
+        "name": "Pull Up Bar",
+        "advice": "There are multiple types of pull up bars available with different grips. If the grip you are looking for isn't available, use another one that looks most similar."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Bent Over Row",
+    "videoShortDemo": "8.mp4",
+    "videoInDepthExpl": "",
+    "proTip": "You can change the focus of this exercise slightly by changing up where you grip the barbell. Wider grips will favor the back muscles more while narrower grips will favor the biceps more. Just don't grab the barbell closer than shoulder-width.",
+    "steps": [
+      "Place a barbell on the floor and approach it with your shins several inches away.",
+      "Stand with your feet shoulder-width apart, grab the barbell with your arms fully extended and hands just outside of shoulder-width and pick it up, lifting to a point where your knees are moderately bent and your torso is leaning forward.",
+      "Maintaining a flat back and keeping your chest up, exhale and pull the barbell toward your upper abdomen while squeezing your shoulder blades together.",
+      "Continue to pull until just before the bar touches your upper abdomen without allowing your torso or legs to change position.",
+      "Inhale and lower the barbell down to the starting position with your arms fully extended."
+    ],
+    "typeMuscle": {
+      "name": "Lats",
+      "description": "Largest muscle of your back, spanning from the lower to middle regions creating a v shape.",
+      "image": "https://app.fitnessai.com/musclegroups/full/08761101-Latissimus-Dorsi_transparent.png"
+    },
+    "equipment": [
+      {
+        "name": "Barbell",
+        "advice": "Make sure to always use weight clips whenever you use a barbell, to prevent the plates from sliding off."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Hyperextension",
+    "videoShortDemo": "9.mp4",
+    "videoInDepthExpl": "",
+    "proTip": "Make sure your feet are tightly secured behind you to avoid accidentally falling.",
+    "steps": [
+      "Position yourself so that your feet are firmly held in place by the pads and your hips are in line with the end of the platform.",
+      "Inhale and lower yourself down by bending your torso forward while your arms are crossed over your chest.",
+      "Continue until you are almost upside down, keeping your back flat.",
+      "Exhale and extend backward, leaning back until your torso is in line with your lower body, returning to the starting position."
+    ],
+    "typeMuscle": {
+      "name": "Lower Back",
+      "description": "Center region of your back, spanning from the pelvis to just below the neck. However, parts of it are hidden beneath other muscles. The lower portion is the most visible.",
+      "image": "https://app.fitnessai.com/musclegroups/full/lower-back.png"
+    },
+    "equipment": [
+      {
+        "name": "Back Extension Bench",
+        "advice": "Whenever you use this type of bench, always make sure your feet are firmly held in place before starting your set."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Barbell Curl",
+    "videoShortDemo": "10.mp4",
+    "videoInDepthExpl": "",
+    "proTip": "If your wrists feel uncomfortable, you can substitute a regular barbell for the EZ curl bar.",
+    "steps": [
+      "Stand upright with your arms fully extended, gripping the barbell shoulder-width apart with palms facing away from you.",
+      "Keeping your upper arms by your side, exhale and raise the barbell up towards your shoulders by flexing your arms. Avoid using your legs or back to lift.",
+      "Continue until your arms are fully flexed and the barbell cannot be curled any further.",
+      "Inhale and lower the barbell back down, returning to the starting position."
+    ],
+    "typeMuscle": {
+      "name": "Outer Bicep",
+      "description": "Outer portion of your bicep.",
+      "image": "https://app.fitnessai.com/musclegroups/full/08751101-Biceps-LONG_transparent.png"
+    },
+    "equipment": [
+      {
+        "name": "Barbell",
+        "advice": "Make sure to always use weight clips whenever you use a barbell, to prevent the plates from sliding off"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Dumbbell Curl",
+    "videoShortDemo": "11.mp4",
+    "videoInDepthExpl": "",
+    "proTip": "Squeeze your biceps consciously while curling up for added benefit.",
+    "steps": [
+      "Stand upright with your hands by the side of your body with palms facing inwards, holding one dumbbell in each hand with a neutral grip.",
+      "Keeping your upper arms by your side, exhale and raise the dumbbells up towards your shoulders by flexing your arms and simultaneously rotating your palms inward so that your palms are facing you. Avoid using your legs or back.",
+      "Continue until your arms are fully flexed and the dumbbells cannot be curled any further.",
+      "Inhale and lower your arms back down, returning to the starting position."
+    ],
+    "typeMuscle": {
+      "name": "Outer Bicep",
+      "description": "Outer portion of your bicep.",
+      "image": "https://app.fitnessai.com/musclegroups/full/08751101-Biceps-LONG_transparent.png"
+    },
+    "equipment": [
+      {
+        "name": "Dumbbells",
+        "advice": "When gripping dumbbells, make sure you position your hands in the middle of the bar and not at the end next to the plates."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Close Grip Barbell Bench Press",
+    "videoShortDemo": "12.mp4",
+    "videoInDepthExpl": "",
+    "proTip": "If you want to increase the emphasis on your triceps, try tucking your elbows into your sides throughout the entire movement.",
+    "steps": [
+      "Lie flat on the bench so that your head, upper back, lower back, and both feet are firmly pressed against the bench and ground at all points.",
+      "Grab the barbell on the rack slightly inside of shoulder-width by extending your arms and bring it forward until it is over the middle of your chest and your arms are fully extended.",
+      "Inhale and lower the barbell towards the middle of your chest.",
+      "Continue lowering the barbell until just before it makes contact with your chest.",
+      "Exhale and push the barbell upwards returning to the starting position, while keeping your feet, lower back, upper back, and head firmly planted.",
+      "After all reps are completed, return the barbell to the rack."
+    ],
+    "typeMuscle": {
+      "name": "Outer Tricep",
+      "description": "Outer region of your tricep.",
+      "image": "https://app.fitnessai.com/musclegroups/full/08761101-Triceps-LOWER_transparent.png"
+    },
+    "equipment": [
+      {
+        "name": "Barbell",
+        "advice": "Make sure to always use weight clips whenever you use a barbell, to prevent the plates from sliding off."
+      },
+      {
+        "name": "Flat Bench With Rack",
+        "advice": "If you need to use a flat bench with rack for an exercise, but cannot find one, do not substitute it for a flat bench without rack."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Dumbbell Overhead Tricep Extension",
+    "videoShortDemo": "13.mp4",
+    "videoInDepthExpl": "",
+    "proTip": "Try to keep your elbows pointed forward throughout the movement for the greatest effect.",
+    "steps": [
+      "Stand upright holding a single dumbbell behind your head with both hands, with both arms flexed.",
+      "Exhale and extend your arms upwards to raise the dumbbell overhead.",
+      "Continue until your arms are fully extended overhead and straight, making sure you do not allow your upper arm to move.",
+      "Inhale and then lower the dumbbell, returning to the starting position."
+    ],
+    "typeMuscle": {
+      "name": "Lower Tricep",
+      "description": "Lower tricep, close to your elbow.",
+      "image": "https://app.fitnessai.com/musclegroups/full/08761101-Triceps-UPPER_transparent.png"
+    },
+    "equipment": [
+      {
+        "name": "Dumbbells",
+        "advice": "When gripping dumbbells, make sure you position your hands in the middle of the bar and not at the end next to the plates."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Squat",
+    "videoShortDemo": "14.mp4",
+    "videoInDepthExpl": "",
+    "proTip": "When squatting, make sure you stay within the safety bars of the rack. Do not walk so far back that you are outside of their range.",
+    "steps": [
+      "With feet shoulder-width apart, position yourself under the center of the barbell in the rack as you place it between your traps and upper back, and grip the barbell slightly wider than shoulder-width apart.",
+      "Lift the barbell from the rack by partially standing up and taking a step back while squeezing the bar tightly and keeping it rested over your upper back.",
+      "Inhale and with feet pointed slightly outwards break at your hips, sitting down and allowing your torso to come moderately forward while keeping it straight.",
+      "Continue until your thighs are at least parallel to the floor.",
+      "Exhale and push through your heels to return to the starting position.",
+      "After all reps are completed, walk forward to return the barbell to the rack."
+    ],
+    "typeMuscle": {
+      "name": "Quads",
+      "description": "Muscles spanning the front of your thigh.",
+      "image": "https://app.fitnessai.com/musclegroups/full/08751101-Quadriceps_transparent.png"
+    },
+    "equipment": [
+      {
+        "name": "Barbell",
+        "advice": "Make sure to always use weight clips whenever you use a barbell, to prevent the plates from sliding off."
+      },
+      {
+        "name": "Squat Rack Or Power Rack",
+        "advice": "Make sure you set up safety bars when using a squat rack or power rack so that you can always place the barbell down safely if you get stuck."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Lying Leg Curl",
+    "videoShortDemo": "15.mp4",
+    "videoInDepthExpl": "",
+    "proTip": "For added benefit, lower your legs slowly.",
+    "steps": [
+      "Lie face down, adjusting the machine so that the pad is between your calf and the back of your ankle while grabbing the handles in front of you.",
+      "Exhale as you curl your legs towards you, trying to bring the pad towards your butt.",
+      "While keeping your thighs firmly pressed against the machine, continue to curl your legs until you can no longer do so.",
+      "Inhale and lower your legs back down."
+    ],
+    "typeMuscle": {
+      "name": "Hamstrings",
+      "description": "Muscles spanning the back of your thigh.",
+      "image": "https://app.fitnessai.com/musclegroups/full/08761101-Hamstrings_transparent.png"
+    },
+    "equipment": [
+      {
+        "name": "Leg Curl Machine",
+        "advice": "This machine can help you improve your deadlift strength."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Barbell Hip Thrust",
+    "videoShortDemo": "16.mp4",
+    "videoInDepthExpl": "",
+    "proTip": "If the barbell feels uncomfortable on your hips, you can place a towel or other pad between your hips and the barbell to make the movement more pleasant.",
+    "steps": [
+      "Place a barbell on the ground and lie supine under it so that it is directly above your hips with your hands grabbing it shoulder-width apart with an overhand grip.",
+      "Place your upper back on a bench, while keeping your butt and feet firmly on the ground.",
+      "With knees bent, exhale and push through your heels to extend your hips and raise the barbell, keeping your upper back firmly on the bench the entire time.",
+      "Continue until your upper legs and torso make a straight line, holding onto the barbell tightly so that it stays in place.",
+      "Inhale and lower the barbell back down to the floor, returning to the starting position."
+    ],
+    "typeMuscle": {
+      "name": "Glutes",
+      "description": "Muscles of your butt.",
+      "image": "https://app.fitnessai.com/musclegroups/full/08761101-Gluteus-Maximus_transparent.png"
+    },
+    "equipment": [
+      {
+        "name": "Barbell",
+        "advice": "Make sure to always use weight clips whenever you use a barbell, to prevent the plates from sliding off."
+      },
+      {
+        "name": "Flat Bench Without Rack",
+        "advice": "If you can't find this bench, consider using a flat bench with rack instead. If your exercise requires you to use a barbell or bar, you cannot substitute. If you do not need to use either, you probably can substitute."
+      },
+      {
+        "name": "Towel",
+        "advice": "Towels are pretty versatile. When using one, make sure to use one that won't rip while you are using it. If the towel you use does not work, try a towel with a different thickness."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Glute Kickback Machine",
+    "videoShortDemo": "17.mp4",
+    "videoInDepthExpl": "",
+    "proTip": "Some machines may have a pad for your active leg to push instead of a bar.",
+    "steps": [
+      "Stand on the machine with one leg rested underneath your body and the other leg on the bar.",
+      "While holding onto the machine's handles for stability, exhale and extend the leg you placed on the bar back behind you.",
+      "Continue extending your leg until it is straight.",
+      "Inhale and draw your leg in forward, returning to the starting position.",
+      "After all reps are completed, switch sides and repeat the movement. 10 reps prescribed means you should perform 10 reps on each side (20 total)."
+    ],
+    "typeMuscle": {
+      "name": "Glutes",
+      "description": "Muscles of your butt.",
+      "image": "https://app.fitnessai.com/musclegroups/full/08761101-Gluteus-Maximus_transparent.png"
+    },
+    "equipment": [
+      {
+        "name": "Glute Kickback Machine",
+        "advice": "This machine can help you improve your squat and deadlift strength similarly."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Front Raise",
+    "videoShortDemo": "18.mp4",
+    "videoInDepthExpl": "",
+    "proTip": "You can optionally hold both dumbbells in place for 1 second when it is at the highest point for added training. Doing this too often can fatigue you faster so only do it occasionally. Just make sure to not go above shoulder height or hold them for longer than 1 second.",
+    "steps": [
+      "Stand upright with your hands in front of your shoulders, holding a dumbbell in each hand with an overhand grip.",
+      "Exhale and raise both dumbbells, keeping your arms straight. Avoid using your legs or back to lift.",
+      "Continue raising the dumbbells until they reach the level of your shoulder.",
+      "Inhale and lower your arms, returning to the starting position."
+    ],
+    "typeMuscle": {
+      "name": "Front Shoulder",
+      "description": "Front portion of your shoulder.",
+      "image": "https://app.fitnessai.com/musclegroups/full/08751101-Deltoids-FRONT_transparent.png"
+    },
+    "equipment": [
+      {
+        "name": "Dumbbells",
+        "advice": "When gripping dumbbells, make sure you position your hands in the middle of the bar and not at the end next to the plates."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Lateral Raise",
+    "videoShortDemo": "19.mp4",
+    "videoInDepthExpl": "",
+    "proTip": "For added benefit, hold the dumbbells for an extra 1 second before lowering them, when your arms are parallel to the floor.",
+    "steps": [
+      "Stand upright, holding both dumbbells by your sides with your arms extended.",
+      "Without using your legs, exhale and raise the dumbbells out to your sides.",
+      "Continue raising the dumbbells until your arms are parallel to the floor.",
+      "Inhale and allow the dumbbells to lower, returning them to the starting position."
+    ],
+    "typeMuscle": {
+      "name": "Side Shoulder",
+      "description": "Outer portion of your shoulder.",
+      "image": "https://app.fitnessai.com/musclegroups/full/08751101-Deltoids-SIDE_transparent.png"
+    },
+    "equipment": [
+      {
+        "name": "Dumbbells",
+        "advice": "When gripping dumbbells, make sure you position your hands in the middle of the bar and not at the end next to the plates."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Rope Face Pull",
+    "videoShortDemo": "20.mp4",
+    "videoInDepthExpl": "",
+    "proTip": "If you have the flexibility to do so, you can bring the rope back even further until the point that your upper arms pass behind your torso.",
+    "steps": [
+      "Stand upright while facing the machine with your arms extended in front of you above shoulder-level while grasping the rope.",
+      "Exhale and bring the rope back and down toward your chest while driving your elbows back and squeezing your shoulder blades together.",
+      "Continue until your upper arms are at least in line with your torso.",
+      "Inhale and allow your arms to extend again, raising the rope above."
+    ],
+    "typeMuscle": {
+      "name": "Back Shoulder",
+      "description": "Outer region of your upper back as well as the back area of your shoulder.",
+      "image": "https://app.fitnessai.com/musclegroups/full/08761101-Deltoids-BACK_transparent.png"
+    },
+    "equipment": [
+      {
+        "name": "Rope Attachment",
+        "advice": "Try to grip the attachment so that you are holding a similar length of rope in each hand."
+      },
+      {
+        "name": "Single Pulley Tower",
+        "advice": "If unavailable, you can go to a machine with two towers instead. If you do this, just use one of the two towers."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Crunch",
+    "videoShortDemo": "21.mp4",
+    "videoInDepthExpl": "",
+    "proTip": "Avoid pulling on your head with your hands as it can lead to discomfort in the neck area later on.",
+    "steps": [
+      "Lie on a mat or on the floor with your knees bent. Position your hands so that they are interlocked behind your head.",
+      "Exhale and raise your chest up while keeping your lower back on the ground.",
+      "Continue to raise your chest up as far as you can while still keeping your lower back on the ground, stopping lower than you would in a sit up.",
+      "Inhale and lower yourself back down slowly, returning to the starting position."
+    ],
+    "typeMuscle": {
+      "name": "Upper Abs",
+      "description": "Upper abdomen, from just above your belly button to your sternum. The upper half of the six pack abs.",
+      "image": "https://app.fitnessai.com/musclegroups/full/08751101-Rectus-Abdominis-UPPER_transparent.png"
+    },
+    "equipment": [
+      {
+        "name": "Bodyweight Only",
+        "advice": "This means that the only thing you need to successfully perform the exercise is your body. No other \"equipment\" is needed."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Air Bike",
+    "videoShortDemo": "22.mp4",
+    "videoInDepthExpl": "",
+    "proTip": "Do not pull on your head with your arms. Doing so can lead to later discomfort in your neck. It is best to focus on using your abs to raise you up, consciously ignoring your arms.",
+    "steps": [
+      "Lie flat on the ground with your hands behind your head, legs raised directly above your hips, and bent so that your lower leg and upper leg make a 90 degree angle.",
+      "Maintaining this angle, exhale and raise your torso with a twisting motion in the direction of your opposite knee while simultaneously drawing that knee in towards your torso. Do not bring your head forward, keep it in line with your torso.",
+      "Continue until you can no longer raise your torso with a twisting motion any longer.",
+      "Inhale and slowly return to the starting position by lowering your torso and pushing your leg away from your torso.",
+      "Switch sides and repeat the movement."
+    ],
+    "typeMuscle": {
+      "name": "Upper Abs",
+      "description": "Upper abdomen, from just above your belly button to your sternum. The upper half of the six pack abs.",
+      "image": "https://app.fitnessai.com/musclegroups/full/08751101-Rectus-Abdominis-UPPER_transparent.png"
+    },
+    "equipment": [
+      {
+        "name": "Bodyweight Only",
+        "advice": "This means that the only thing you need to successfully perform the exercise is your body. No other \"equipment\" is needed."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Hanging Straight Leg Raise",
+    "videoShortDemo": "23.mp4",
+    "videoInDepthExpl": "",
+    "proTip": "Inhale and lower your legs, returning to the starting position.",
+    "steps": [
+      "Grab the bar overhead with an overhand grip wider than shoulder-width apart, maintaining fully extended arms and straight legs.",
+      "Exhale and raise your legs, keeping them straight.",
+      "Continue to raise your legs until you cannot do so any longer.",
+      "Try to avoid moving your arms or upper body at all during this movement."
+    ],
+    "typeMuscle": {
+      "name": "Lower Abs",
+      "description": "Lower abdomen, from just above your belly button to your pubis. The lower half of the six pack abs.",
+      "image": "https://app.fitnessai.com/musclegroups/full/08751101-Rectus-Abdominis-LOWER_transparent.png"
+    },
+    "equipment": [
+      {
+        "name": "Bodyweight",
+        "advice": "This means that the exercise requires you to use your bodyweight as resistance but you also need other \"equipment\" to successfully perform the exercise."
+      },
+      {
+        "name": "Pull Up Bar",
+        "advice": "There are multiple types of pull up bars available with different grips. If the grip you are looking for isn't available, use another one that looks most similar."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Plank",
+    "videoShortDemo": "24.mp4",
+    "videoInDepthExpl": "",
+    "proTip": "Remember to breathe rhythmically throughout the movement.",
+    "steps": [
+      "With your legs extended behind you, rest on your forearms so that your upper arms are directly below your shoulders.",
+      "Keep your torso straight and do not allow your hips to drop while maintaining this position for the desired duration."
+    ],
+    "typeMuscle": {
+      "name": "Lower Abs",
+      "description": "Lower abdomen, from just above your belly button to your pubis. The lower half of the six pack abs.",
+      "image": "https://app.fitnessai.com/musclegroups/full/08751101-Rectus-Abdominis-LOWER_transparent.png"
+    },
+    "equipment": [
+      {
+        "name": "Bodyweight Only",
+        "advice": "This means that the only thing you need to successfully perform the exercise is your body. No other \"equipment\" is needed."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "One Arm Dumbbell Wrist Curl",
+    "videoShortDemo": "25.mp4",
+    "videoInDepthExpl": "",
+    "proTip": "Try to lower the dumbbell slowly to improve the effectiveness of the movement.",
+    "steps": [
+      "Sit on the edge of the bench while leaning forward with your forearm resting on your thigh, holding a dumbbell with an underhand grip.",
+      "Exhale and flex your hand upward.",
+      "Continue to raise your hand while keeping your forearm on your thigh until you can no longer do so.",
+      "Inhale and slowly lower your hand down, returning it to the starting position.",
+      "After all reps are completed, switch sides and repeat the movement. 10 reps prescribed means you should perform 10 reps on each side (20 total)."
+    ],
+    "typeMuscle": {
+      "name": "Inner Forearm",
+      "description": "A group of muscles on the inside of your lower arm.",
+      "image": "https://app.fitnessai.com/musclegroups/full/08761101-Wrist-Flexors_transparent.png"
+    },
+    "equipment": [
+      {
+        "name": "Dumbbells",
+        "advice": "When gripping dumbbells, make sure you position your hands in the middle of the bar and not at the end next to the plates."
+      },
+      {
+        "name": "Flat Bench Without Rack",
+        "advice": "If you can't find this bench, consider using a flat bench with rack instead. If your exercise requires you to use a barbell or bar, you cannot substitute. If you do not need to use either, you probably can substitute."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "One Arm Dumbbell Reverse Wrist Curl",
+    "videoShortDemo": "26.mp4",
+    "videoInDepthExpl": "",
+    "proTip": "Try to lower the dumbbell slowly to improve the effectiveness of the movement.",
+    "steps": [
+      "Sit on the edge of the bench while leaning forward with your forearm resting on your thigh, holding a dumbbell with an overhand grip.",
+      "Exhale and extend your hand upwards.",
+      "Continue to raise your hand while keeping your forearm on your thigh until you can no longer do so.",
+      "Inhale and slowly lower your hand down, returning to the starting position.",
+      "After all reps are completed, switch sides and repeat the movement. 10 reps prescribed means you should perform 10 reps on each side (20 total)."
+    ],
+    "typeMuscle": {
+      "name": "Outer Forearm",
+      "description": "A group of muscles on the outside and sides of your lower arm.",
+      "image": "https://app.fitnessai.com/musclegroups/full/08751101-Wrist-extensors_transparent.png"
+    },
+    "equipment": [
+      {
+        "name": "Dumbbells",
+        "advice": "When gripping dumbbells, make sure you position your hands in the middle of the bar and not at the end next to the plates."
+      },
+      {
+        "name": "Flat Bench Without Rack",
+        "advice": "If you can't find this bench, consider using a flat bench with rack instead. If your exercise requires you to use a barbell or bar, you cannot substitute. If you do not need to use either, you probably can substitute."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Plate Curl",
+    "videoShortDemo": "27.mp4",
+    "videoInDepthExpl": "",
+    "proTip": "You can use plates of all sizes for this movement as long as you can grip them and hold on long enough to perform it.",
+    "steps": [
+      "Stand upright with arms fully extended gripping a plate closer than shoulder-width apart and with an overhand grip.",
+      "Exhale and curl your arms up towards your shoulders while keeping your upper arm by your side.",
+      "Continue until you can no longer do so while you still keep your upper arm by your side.",
+      "Inhale and lower the plate down, returning to the starting position."
+    ],
+    "typeMuscle": {
+      "name": "Outer Forearm",
+      "description": "A group of muscles on the outside and sides of your lower arm.",
+      "image": "https://app.fitnessai.com/musclegroups/full/08751101-Wrist-extensors_transparent.png"
+    },
+    "equipment": [
+      {
+        "name": "Weight Plate",
+        "advice": "You can use a weight plate of any size as long as you can hold it properly. If you have trouble achieving the desired range of motion, try using a plate of a smaller size."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Barbell Reverse Curl",
+    "videoShortDemo": "28.mp4",
+    "videoInDepthExpl": "",
+    "proTip": "Keep your wrists up for the best effect, don't let them drop.",
+    "steps": [
+      "Stand upright with your arms fully extended, gripping the barbell shoulder-width apart with an overhand grip.",
+      "Keeping your upper arms by your side, exhale and raise the barbell up towards your shoulders by flexing your arms. Avoid using your legs or back to lift.",
+      "Continue until your arms are fully flexed and the barbell cannot be curled any further.",
+      "Inhale and lower the barbell back down, returning to the starting position."
+    ],
+    "typeMuscle": {
+      "name": "Outer Forearm",
+      "description": "A group of muscles on the outside and sides of your lower arm.",
+      "image": "https://app.fitnessai.com/musclegroups/full/08751101-Wrist-extensors_transparent.png"
+    },
+    "equipment": [
+      {
+        "name": "Barbell",
+        "advice": "Make sure to always use weight clips whenever you use a barbell, to prevent the plates from sliding off."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Resistance Band Stretching",
+    "videoShortDemo": "28.mp4",
+    "videoInDepthExpl": "",
+    "proTip": "Keep your wrists up for the best effect, don't let them drop.",
+    "steps": [
+      "Stand upright with your arms fully extended, gripping the barbell shoulder-width apart with an overhand grip.",
+      "Keeping your upper arms by your side, exhale and raise the barbell up towards your shoulders by flexing your arms. Avoid using your legs or back to lift.",
+      "Continue until your arms are fully flexed and the barbell cannot be curled any further.",
+      "Inhale and lower the barbell back down, returning to the starting position."
+    ],
+    "typeMuscle": {
+      "name": "Outer Forearm",
+      "description": "A group of muscles on the outside and sides of your lower arm.",
+      "image": "https://app.fitnessai.com/musclegroups/full/08751101-Wrist-extensors_transparent.png"
+    },
+    "equipment": [
+      {
+        "name": "Barbell",
+        "advice": "Make sure to always use weight clips whenever you use a barbell, to prevent the plates from sliding off."
+      }
+    ]
+  }
+]
