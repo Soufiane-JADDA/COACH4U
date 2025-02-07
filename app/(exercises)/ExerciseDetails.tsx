@@ -9,16 +9,33 @@ import {
   Button,
   TouchableOpacity,
 } from "react-native";
+import AsyncStorage from "@react-native-async-storage/async-storage";
 import { useLocalSearchParams, Stack } from "expo-router";
 import { Video, ResizeMode } from "expo-av";
 import { WebView } from "react-native-webview"; // To display YouTube videos in the app
 
-import data from "../../assets/exercises.json";
+import englishData from "../../assets/exercises.json";
+import arabicData from "../../assets/exercises_ar.json"; // Arabic version
 
 export default function ExerciseDetails() {
   const { id, name } = useLocalSearchParams() as Record<string, string>;
+  const [data, setData] = useState(englishData); // Default to English
   const video = useRef<Video>(null);
   const [showYouTubeVideo, setShowYouTubeVideo] = useState(false);
+
+  // Load language preference
+  useEffect(() => {
+    async function loadLanguage() {
+      const savedLang = await AsyncStorage.getItem("appLanguage");
+      if (savedLang === "Arabic") {
+        setData(arabicData);
+      } else {
+        setData(englishData);
+      }
+    }
+    loadLanguage();
+  }, []);
+
   useEffect(() => {
     if (video.current) {
       video.current

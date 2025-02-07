@@ -15,12 +15,29 @@ import {
   FlatList,
 } from "react-native";
 
+import AsyncStorage from "@react-native-async-storage/async-storage"; 
 import { MaterialCommunityIcons } from "@expo/vector-icons";
 import { router } from "expo-router";
 import { Profiler } from "react";
 import { getUserData } from "@/database/queries";
 
 export default function SettingsPage() {
+
+  const [language, setLanguage] = useState("English"); // Current language state
+  const [modalVisible, setModalVisible] = useState(false); // Modal visibility state  
+  const languages = ["English", "Arabic"]; // Language options 
+
+  // Fetch the stored language preference
+  useEffect(() => {
+    async function loadLanguage() {
+      const savedLang = await AsyncStorage.getItem("appLanguage");
+      if (savedLang) {
+        setLanguage(savedLang);
+      }
+    }
+    loadLanguage();
+  }, []);
+
   const [form, setForm] = useState({ 
     emailNotifications: true,
     // pushNotifications: false,
@@ -30,14 +47,11 @@ export default function SettingsPage() {
   const [lastName, setLastName] = useState("lastName");
   const [email, setEmail] = useState("email");
 
-  const [language, setLanguage] = useState("English"); // Current language state
-  const [modalVisible, setModalVisible] = useState(false); // Modal visibility state
-
-  const languages = ["English", "French", "Arabic"]; // Language options
-
-  const handleLanguageChange = (selectedLanguage: React.SetStateAction<string>) => {
+  // Save the selected language in AsyncStorage
+  const handleLanguageChange = async (selectedLanguage: string) => {
     setLanguage(selectedLanguage);
-    setModalVisible(false); // Close modal after selection
+    await AsyncStorage.setItem("appLanguage", selectedLanguage);
+    setModalVisible(false);
   };
 
   useEffect(() => {

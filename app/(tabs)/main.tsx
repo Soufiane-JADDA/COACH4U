@@ -23,11 +23,13 @@ export default function MainScreen() {
   );
   const [completed, setCompleted] = useState(0);
   const [username, setUsername] = useState("User");
+  const [state, setState] = useState(0);
 
   const router = useRouter();
 
   const handleReload = () => {
     handle();
+    setState((prevState)=>{return prevState+1})
   };
 
   const handle = async () => {
@@ -76,7 +78,7 @@ export default function MainScreen() {
         </View>
 
         {/* Nutrition Tracking */}
-        <NutritionTracking />
+        <NutritionTracking state={state}/>
       </ScrollView>
     </GestureHandlerRootView>
   );

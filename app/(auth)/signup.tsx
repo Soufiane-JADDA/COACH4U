@@ -45,6 +45,10 @@ function SignUp() {
         Alert.alert("Password Mismatch", "Passwords do not match.");
         return;
       }
+      if (password.length < 7) {
+        Alert.alert("Short Password", "Password is too short.");
+        return;
+      }
     const userId = await signUpUser(email, password);
     if (userId) {
       const tmp = await addUser(
@@ -76,7 +80,7 @@ function SignUp() {
               <Text style={styles.label}>First Name:</Text>
               <TextInput
                 style={styles.smallInput}
-                placeholder="Rachid"
+                placeholder="name"
                 placeholderTextColor="#B4B4B4"
                 value={firstName}
                 keyboardType="email-address"
@@ -87,7 +91,7 @@ function SignUp() {
               <Text style={styles.label}>Last Name:</Text>
               <TextInput
                 style={styles.smallInput}
-                placeholder="Show"
+                placeholder="last name"
                 placeholderTextColor="#B4B4B4"
                 value={lastName}
                 keyboardType="email-address"

@@ -3,7 +3,7 @@ import { AntDesign } from "@expo/vector-icons";
 import { StyleSheet, Text, View } from "react-native";
 import { generateNutrition, MealPlan } from "@/lib/generateNutrition";
 
-export const NutritionTracking = () => {
+export const NutritionTracking = (props:{state:any}) => {
   const [response, setResponse] = useState<MealPlan | undefined>();
 
   useEffect(() => {
@@ -14,7 +14,7 @@ export const NutritionTracking = () => {
       setResponse(data);
     };
     generate();
-  }, []);
+  }, [props.state]);
 
   return (
     <View style={styles.wrapper}>
@@ -117,6 +117,7 @@ const styles = StyleSheet.create({
     fontSize: 16,
   },
   value: {
+    flex: 1,
     color: "white",
     fontSize: 16,
     fontWeight: "bold",

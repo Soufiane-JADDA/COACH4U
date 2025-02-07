@@ -4,26 +4,26 @@
     "name": "Incline Dumbbell Press",
     "videoShortDemo": "https://app.fitnessai.com/exercises/03141201-Dumbbell-Incline-Bench-Press-Chest.mp4",
     "videoInDepthExpl": "https://youtu.be/bR_dKXdtfrQ?si=j0N0jcw51DZkWJS0",
-    "proTip": "Select an incline between 30º-45º and stick with it. The higher the incline, the more you'll train your shoulder muscles.",
+    "proTip": "اختر ميلًا بين 30º-45º واحتفظ به. كلما زاد الميل، زاد تأثير التمرين على عضلات الكتف.",
     "steps": [
-      "Lie flat on the bench so that your head, upper back, lower back, and both feet are firmly pressed against the bench and ground at all points while holding two dumbbells at shoulder level with an overhand grip.",
-      "Exhale and press through both hands to raise the dumbbells up and towards each other.",
-      "Continue until your arms are fully extended.",
-      "Inhale and lower your arms, returning to the starting position."
+      "استلقِ على المقعد بحيث يكون رأسك وأعلى ظهرك وأسفل ظهرك وقدميك ملامسين للمقعد والأرض أثناء حمل دمبلين بمستوى الكتف بقبضة علوية.",
+      "ازفر واضغط بكلتا يديك لرفع الدمبل نحو الأعلى وجعلها تقترب من بعضها البعض.",
+      "استمر في الرفع حتى تكون ذراعيك ممدودتين بالكامل.",
+      "استنشق وخفض ذراعيك للعودة إلى وضع البداية."
     ],
     "typeMuscle": {
-      "name": "Upper Chest",
-      "description": "Smallest portion of your chest, spanning from your clavicle to your shoulder. It takes up a very small area of your chest and is multiple times smaller than your sternal head.",
+      "name": "أعلى الصدر",
+      "description": "أصغر جزء من عضلة الصدر، يمتد من عظمة الترقوة إلى الكتف. يشغل مساحة صغيرة جدًا مقارنةً بجزء الصدر السفلي.",
       "image": "https://app.fitnessai.com/musclegroups/full/08751101-Chest-UPPER_transparent.png"
     },
     "equipment": [
       {
-        "name": "Dumbbells",
-        "advice": "When gripping dumbbells, make sure you position your hands in the middle of the bar and not at the end next to the plates."
+        "name": "دمبل",
+        "advice": "تأكد من وضع يديك في منتصف المقبض وليس في الطرف القريب من الأوزان عند الإمساك بالدمبل."
       },
       {
-        "name": "Incline (Adjustable) Bench Without Rack",
-        "advice": "You can adjust this bench to various angles depending on your goals. If other rackless bench types are unavailable, you might be able to use this one as a substitute. Only substitute for benches you can match the angle of."
+        "name": "مقعد مائل قابل للتعديل بدون حامل",
+        "advice": "يمكنك ضبط زاوية هذا المقعد وفقًا لأهدافك. إذا لم يتوفر مقعد آخر، يمكنك استخدامه كبديل بشرط أن تطابق الزاوية المطلوبة."
       }
     ]
   },
@@ -32,26 +32,26 @@
     "name": "Cable Crossover Row",
     "videoShortDemo": "https://app.fitnessai.com/exercises/01531201-Cable-Cross-over-Lateral-Pulldown-Back.mp4",
     "videoInDepthExpl": "",
-    "proTip": "If the handles you use are uncomfortable, try switching them out for similar ones with a different grip.",
+    "proTip": "إذا لم تكن المقابض مريحة، حاول استبدالها بمقابض مشابهة بقبضة مختلفة.",
     "steps": [
-      "Stand upright and grab the cable on either side of you with your opposing hand.",
-      "Exhale and lower your arms back towards your body, tucking your elbows in towards your sides and squeezing your shoulder blades together.",
-      "Continue until your elbows pass behind your back.",
-      "Inhale and allow your elbows to extend and arms to raise, returning to the starting position."
+      "قف منتصبًا وامسك بالكابل على كلا الجانبين بيديك المتقابلتين.",
+      "ازفر وأنزل ذراعيك باتجاه جسمك مع تقريب مرفقيك وضغط لوحي الكتف معًا.",
+      "استمر حتى تمر مرفقاك خلف ظهرك.",
+      "استنشق ومد ذراعيك للخلف إلى وضع البداية."
     ],
     "typeMuscle": {
-      "name": "Upper Back",
-      "description": "A significant portion of the upper region of your back. It is widest in the middle, forming a diamond shape that connects the middle of your back to both of your shoulder blades and the upper portion of your neck. It is comprised of three regions. Each region has a different function and is trained in different ways.",
+      "name": "أعلى الظهر",
+      "description": "جزء مهم من المنطقة العلوية للظهر، يمتد على شكل ماسي من منتصف الظهر إلى لوحي الكتف وأعلى الرقبة، ويتكون من ثلاث مناطق لها وظائف مختلفة ويتم تدريبها بطرق مختلفة.",
       "image": "https://app.fitnessai.com/musclegroups/full/08761101-Trapezius_transparent.png"
     },
     "equipment": [
       {
-        "name": "Close Pulley Towers",
-        "advice": "If no other options are available, you can use far pulley towers instead. However this is not preferable."
+        "name": "أبراج بكرة قريبة",
+        "advice": "إذا لم تتوفر خيارات أخرى، يمكنك استخدام الأبراج البعيدة، ولكن هذا ليس مفضلًا."
       },
       {
-        "name": "Single Grip Handles",
-        "advice": "Some exercises may require you to use only one handle. Pay close attention to the animation to verify the number of handles needed."
+        "name": "مقابض ذات قبضة واحدة",
+        "advice": "بعض التمارين تتطلب استخدام مقبض واحد فقط. تأكد من متابعة الفيديو للتحقق من عدد المقابض المطلوبة."
       }
     ]
   },
@@ -60,26 +60,26 @@
     "name": "Decline Dumbbell Bench Press",
     "videoShortDemo": "https://app.fitnessai.com/exercises/03011201-Dumbbell-Decline-Bench-Press-Chest.mp4",
     "videoInDepthExpl": "",
-    "proTip": "You can adjust the angle of the bench to change the difficulty of this movement.",
+    "proTip": "يمكنك ضبط زاوية المقعد لتغيير صعوبة هذا التمرين.",
     "steps": [
-      "Lie flat on the bench so that your head, upper back, and lower back are firmly pressed against the bench and ground at all points, with your feet secured by the pad.",
-      "Holding one dumbbell in each hand with an overhand grip at the level of your chest, exhale and push both of your hands up and towards each other.",
-      "Continue pushing until your arms are fully extended and just before the dumbbells meet.",
-      "Inhale and lower the dumbbells back down to the starting position."
+      "استلقِ على المقعد بحيث يكون رأسك وأعلى ظهرك وأسفل ظهرك مثبتين بإحكام مع قدميك مثبتتين على الوسادة.",
+      "امسك دمبلًا في كل يد بمستوى الصدر بقبضة علوية، ازفر واضغط بكلتا يديك للأعلى وللداخل.",
+      "استمر في الدفع حتى تكون ذراعيك ممدودتين بالكامل.",
+      "استنشق وخفض الدمبل ببطء إلى وضع البداية."
     ],
     "typeMuscle": {
-      "name": "Lower Chest",
-      "description": "Largest portion of your chest, spanning from your sternum to your shoulder. It takes up a majority of your chest and is multiple times larger than your clavicular head.",
+      "name": "أسفل الصدر",
+      "description": "أكبر جزء من عضلة الصدر، يمتد من عظمة القص إلى الكتف. يشغل معظم مساحة الصدر وهو أكبر بعدة مرات من الجزء العلوي.",
       "image": "https://app.fitnessai.com/musclegroups/full/08751101-Chest-LOWER_transparent.png"
     },
     "equipment": [
       {
-        "name": "Decline Bench Without Rack",
-        "advice": "If you can't find this bench, consider using a decline bench with rack instead. If your exercise requires you to use a barbell or bar, you cannot substitute. If you do not need to use either, you probably can substitute."
+        "name": "مقعد مائل للأسفل بدون حامل",
+        "advice": "إذا لم تتمكن من العثور على هذا المقعد، يمكنك استخدام مقعد مائل للأسفل مع حامل بدلاً منه."
       },
       {
-        "name": "Dumbbells",
-        "advice": "When gripping dumbbells, make sure you position your hands in the middle of the bar and not at the end next to the plates."
+        "name": "دمبل",
+        "advice": "تأكد من وضع يديك في منتصف المقبض وليس عند الأطراف أثناء الإمساك بالدمبل."
       }
     ]
   },
@@ -88,27 +88,27 @@
     "name": "Decline Dumbbell Chest Fly",
     "videoShortDemo": "4.mp4",
     "videoInDepthExpl": "URL_to_In_Depth_Expl",
-    "proTip": "For added benefit, squeeze your chest tightly while bringing the dumbbells together.",
+    "proTip": "لتحقيق فائدة إضافية، قم بعصر عضلات صدرك أثناء تقريب الدمبل من بعضهما.",
     "steps": [
-      "Lie flat on the bench so that your head, upper back, and lower back are firmly pressed against the bench and ground at all points, with your feet secured by the pad.",
-      "Hold one dumbbell in each hand at shoulder level with your arms fully outstretched to your sides and palms facing up.",
-      "Exhale and bring your arms together.",
-      "Continue bringing your arms together until your hands are about 1 inch from each other.",
-      "Inhale and lower the dumbbells until you return to the starting position."
+      "استلقِ على المقعد مع تثبيت قدميك جيدًا على الوسادة.",
+      "امسك دمبلًا في كل يد على مستوى الكتف، مع فرد ذراعيك للخارج.",
+      "ازفر وقم بتجميع ذراعيك معًا.",
+      "استمر حتى تصبح يداك قريبتين جدًا من بعضهما البعض.",
+      "استنشق وأنزل الدمبل ببطء حتى تعود إلى وضع البداية."
     ],
     "typeMuscle": {
-      "name": "Lower Chest",
-      "description": "Largest portion of your chest, spanning from your sternum to your shoulder. It takes up a majority of your chest and is multiple times larger than your clavicular head.",
+      "name": "أسفل الصدر",
+      "description": "أكبر جزء من عضلة الصدر، يمتد من عظمة القص إلى الكتف.",
       "image": "https://app.fitnessai.com/musclegroups/full/08751101-Chest-LOWER_transparent.png"
     },
     "equipment": [
       {
-        "name": "Decline Bench Without Rack",
-        "advice": "If you can't find this bench, consider using a decline bench with rack instead. If your exercise requires you to use a barbell or bar, you cannot substitute. If you do not need to use either, you probably can substitute."
+        "name": "مقعد مائل للأسفل بدون حامل",
+        "advice": "إذا لم يتوفر، يمكنك استخدام مقعد مائل للأسفل مع حامل."
       },
       {
-        "name": "Dumbbells",
-        "advice": "When gripping dumbbells, make sure you position your hands in the middle of the bar and not at the end next to the plates."
+        "name": "دمبل",
+        "advice": "تأكد من إمساك الدمبل في منتصف المقبض لضمان توازن جيد."
       }
     ]
   },
@@ -766,28 +766,28 @@
     "name": "Barbell Bench Press",
     "videoShortDemo": "30.mp4",
     "videoInDepthExpl": "",
-    "proTip": "By having a spotter help you unrack the bar at the start of the lift, you will have an easier time during the rest of the lift. Just make sure you don't let them touch the barbell once you start benching unless you need help racking the barbell.",
+    "proTip": "عند وجود مساعد لمساعدتك في رفع البار في بداية التمرين، سيكون من الأسهل إكماله. فقط تأكد من أنه لا يلمس البار أثناء التمرين إلا إذا كنت بحاجة إلى المساعدة في إعادة البار إلى الحامل.",
     "steps": [
-      "Lie flat on the bench so that your head, upper back, lower back, and both feet are firmly pressed against the bench and ground at all points.",
-      "Grab the barbell on the rack at slightly wider than shoulder-width by extending your arms and bring it forward until it is over the middle of your chest and your arms are fully extended.",
-      "Inhale and lower the barbell towards the middle of your chest.",
-      "Continue lowering the barbell until just before it makes contact with your chest.",
-      "Exhale and push the barbell upwards returning to the starting position, while keeping your feet, lower back, upper back, and head firmly planted.",
-      "After all reps are completed, return the barbell to the rack."
+      "استلقِ على المقعد بحيث يكون رأسك، وظهرك العلوي، وأسفل ظهرك، وكلا قدميك مثبتين بقوة على المقعد والأرض.",
+      "أمسك البار الموجود على الحامل بحيث تكون يداك أوسع قليلاً من عرض الكتفين، ثم قم بمد ذراعيك للأمام حتى يكون البار فوق منتصف صدرك وذراعيك ممدودتين بالكامل.",
+      "استنشق الهواء ثم اخفض البار ببطء نحو منتصف صدرك.",
+      "استمر في خفض البار حتى يقترب من ملامسة صدرك دون أن يلمسه.",
+      "ازفر الهواء ثم ادفع البار للأعلى للعودة إلى وضعية البداية، مع الحفاظ على قدميك وظهرك ورأسك مثبتين بقوة.",
+      "بعد الانتهاء من جميع التكرارات، أعد البار إلى الحامل."
     ],
     "typeMuscle": {
-      "name": "Lower Chest",
-      "description": "Largest portion of your chest, spanning from your sternum to your shoulder. It takes up a majority of your chest and is multiple times larger than your clavicular head.",
+      "name": "الجزء السفلي من الصدر",
+      "description": "أكبر جزء من صدرك، يمتد من عظمة القص إلى الكتف. يشغل معظم مساحة الصدر وهو أكبر بكثير من الجزء العلوي من الصدر.",
       "image": "https://app.fitnessai.com/musclegroups/full/08751101-Chest-LOWER_transparent.png"
     },
     "equipment": [
       {
-        "name": "Barbell",
-        "advice": "Make sure to always use weight clips whenever you use a barbell, to prevent the plates from sliding off."
+        "name": "البار",
+        "advice": "تأكد دائمًا من استخدام مشابك الوزن عند استخدام البار، لمنع الأوزان من الانزلاق."
       },
       {
-        "name": "Flat Bench With Rack",
-        "advice": "If you need to use a flat bench with rack for an exercise, but cannot find one, do not substitute it for a flat bench without rack."
+        "name": "مقعد مسطح مع حامل",
+        "advice": "إذا كنت بحاجة إلى استخدام مقعد مسطح مع حامل ولكنك لا تستطيع العثور عليه، فلا تستبدله بمقعد مسطح بدون حامل."
       }
     ]
   },
@@ -796,22 +796,22 @@
     "name": "Overhead Dumbbell Shoulder Press",
     "videoShortDemo": "31.mp4",
     "videoInDepthExpl": "",
-    "proTip": "This could be performed while standing to increase the involvement of core muscles, but performing it seated with a backrest is better for focusing on shoulder and arm muscles. If performed seated, make sure your feet are firmly planted on the ground and your back is pressed firmly against the backrest throughout the entire movement.",
+    "proTip": "يمكنك أداء هذا التمرين أثناء الوقوف لزيادة مشاركة عضلات البطن، ولكن أداؤه أثناء الجلوس مع مسند ظهر يساعد في التركيز على عضلات الكتف والذراعين. إذا كنت تجلس، فتأكد من أن قدميك مثبتتان على الأرض وأن ظهرك مضغوط جيدًا على مسند الظهر طوال التمرين.",
     "steps": [
-      "Sit on a bench that has a vertical backrest while in an upright position, holding a dumbbell in each hand with your arms at shoulder level and to the side and palms facing forward.",
-      "Exhale, extending your arms both up and in.",
-      "Continue pressing up and in until your arms are fully extended.",
-      "Inhale and lower the dumbbells, returning to the starting position."
+      "اجلس على مقعد به مسند ظهر رأسي في وضع مستقيم، وامسك دمبل في كل يد عند مستوى الكتف مع إبقاء راحتي يديك للأمام.",
+      "ازفر وادفع ذراعيك لأعلى وللداخل في نفس الوقت.",
+      "استمر في الدفع حتى يتم تمديد ذراعيك بالكامل.",
+      "استنشق الهواء أثناء خفض الدمبل للعودة إلى وضع البداية."
     ],
     "typeMuscle": {
-      "name": "Front Shoulder",
-      "description": "Front portion of your shoulder.",
+      "name": "الكتف الأمامي",
+      "description": "الجزء الأمامي من الكتف.",
       "image": "https://app.fitnessai.com/musclegroups/full/08751101-Deltoids-FRONT_transparent.png"
     },
     "equipment": [
       {
-        "name": "Dumbbells",
-        "advice": "When gripping dumbbells, make sure you position your hands in the middle of the bar and not at the end next to the plates."
+        "name": "الدمبل",
+        "advice": "عند الإمساك بالدمبل، تأكد من وضع يديك في منتصف المقبض وليس بالقرب من الأوزان."
       }
     ]
   },
@@ -820,26 +820,26 @@
     "name": "Cable Lateral Raises",
     "videoShortDemo": "32.mp4",
     "videoInDepthExpl": "",
-    "proTip": "For greater benefit, try holding the cables for 1 second before lowering them when your arms are parallel to the ground.",
+    "proTip": "للحصول على فائدة أكبر، حاول تثبيت الكابل لمدة ثانية واحدة قبل خفضه عندما تكون ذراعيك موازيتين للأرض.",
     "steps": [
-      "Stand upright and grab the cable on either side of you with your opposing hand, holding them with a neutral grip.",
-      "With your arms straight, exhale and raise them out to your sides.",
-      "Keeping your arms straight, continue to raise your arms until they are parallel with the ground.",
-      "Inhale and lower your arms back down, returning them to the starting position."
+      "قف بشكل مستقيم وأمسك بالكابل على كلا الجانبين بيدك المقابلة، مع إمساكه بقبضة محايدة.",
+      "مع إبقاء ذراعيك مستقيمتين، ازفر وارفعهما إلى الجانبين.",
+      "استمر في رفع ذراعيك حتى تصبح موازية للأرض.",
+      "استنشق الهواء وخفض ذراعيك للعودة إلى وضع البداية."
     ],
     "typeMuscle": {
-      "name": "Side Shoulder",
-      "description": "Outer portion of your shoulder",
+      "name": "الكتف الجانبي",
+      "description": "الجزء الخارجي من الكتف.",
       "image": "https://app.fitnessai.com/musclegroups/full/08751101-Deltoids-SIDE_transparent.png"
     },
     "equipment": [
       {
-        "name": "Far Pulley Towers",
-        "advice": "If no other options are available, you can use close pulley towers instead. However this is not preferable."
+        "name": "أبراج الكابل البعيدة",
+        "advice": "إذا لم تكن هناك خيارات أخرى متاحة، يمكنك استخدام أبراج الكابل القريبة، لكن هذا ليس مفضلًا."
       },
       {
-        "name": "Single Grip Handles",
-        "advice": "Some exercises may require you to use only one handle. Pay close attention to the animation to verify the number of handles needed."
+        "name": "مقابض قبضة واحدة",
+        "advice": "بعض التمارين تتطلب استخدام مقبض واحد فقط. انتبه جيدًا إلى الرسوم التوضيحية للتحقق من العدد المطلوب من المقابض."
       }
     ]
   },
@@ -848,28 +848,28 @@
     "name": "Incline Barbell Bench Press",
     "videoShortDemo": "https://app.fitnessai.com/exercises/00471201-Barbell-Incline-Bench-Press-Chest.mp4",
     "videoInDepthExpl": "",
-    "proTip": "Select an incline between 30º-45º and stick with it. The higher the incline, the more you'll train your shoulder muscles.",
+    "proTip": "حدد زاوية الميل بين 30º-45º والتزم بها. كلما زادت زاوية الميل، زاد استهداف عضلات الكتف.",
     "steps": [
-      "Lie flat on a bench so that your head, upper back, lower back, and both feet are firmly pressed against the bench and ground at all points.",
-      "Grab the barbell on the rack at slightly wider than shoulder-width by extending your arms and bring it forward until it is over your upper chest and your arms are fully extended.",
-      "Inhale and lower the barbell towards your upper chest.",
-      "Continue lowering the barbell until just before it makes contact with your chest.",
-      "Exhale and push the barbell upwards returning to the starting position, while keeping your feet, lower back, upper back, and head firmly planted.",
-      "After all reps are completed, return the barbell to the rack."
+      "استلقِ على مقعد بحيث يكون رأسك، وظهرك العلوي، وأسفل ظهرك، وكلا قدميك مثبتين بقوة على المقعد والأرض.",
+      "أمسك البار على الحامل بحيث تكون يداك أوسع قليلاً من عرض الكتفين، ثم قم بمد ذراعيك للأمام حتى يكون البار فوق الجزء العلوي من صدرك وذراعيك ممدودتين بالكامل.",
+      "استنشق الهواء ثم اخفض البار ببطء نحو الجزء العلوي من صدرك.",
+      "استمر في خفض البار حتى يقترب من ملامسة صدرك دون أن يلمسه.",
+      "ازفر الهواء ثم ادفع البار للأعلى للعودة إلى وضعية البداية، مع الحفاظ على قدميك وظهرك ورأسك مثبتين بقوة.",
+      "بعد الانتهاء من جميع التكرارات، أعد البار إلى الحامل."
     ],
     "typeMuscle": {
-      "name": "Upper Chest",
-      "description": "Smallest portion of your chest, spanning from your clavicle to your shoulder. It takes up a very small area of your chest and is multiple times smaller than your sternal head.",
+      "name": "الجزء العلوي من الصدر",
+      "description": "أصغر جزء من الصدر، يمتد من عظمة الترقوة إلى الكتف. يشغل مساحة صغيرة جدًا من الصدر وهو أصغر بعدة مرات من الجزء السفلي.",
       "image": "https://app.fitnessai.com/musclegroups/full/08751101-Chest-UPPER_transparent.png"
     },
     "equipment": [
       {
-        "name": "Barbell",
-        "advice": "Make sure to always use weight clips whenever you use a barbell, to prevent the plates from sliding off."
+        "name": "البار",
+        "advice": "تأكد دائمًا من استخدام مشابك الوزن عند استخدام البار، لمنع الأوزان من الانزلاق."
       },
       {
-        "name": "Incline Bench With Rack",
-        "advice": "If you need to use an incline bench with rack for an exercise, but cannot find one, do not substitute it for an incline bench without rack."
+        "name": "مقعد مائل مع حامل",
+        "advice": "إذا كنت بحاجة إلى استخدام مقعد مائل مع حامل ولكنك لا تستطيع العثور عليه، فلا تستبدله بمقعد مائل بدون حامل."
       }
     ]
   },
@@ -878,50 +878,49 @@
     "name": "Arnold Press",
     "videoShortDemo": "https://app.fitnessai.com/exercises/21371201-Dumbbell-Arnold-Press-Shoulders.mp4",
     "videoInDepthExpl": "",
-    "proTip": "This could be performed while standing to increase the involvement of core muscles, but performing it seated with a backrest is better for focusing on the development of shoulder and arm muscles. If performed seated, make sure your feet are firmly planted on the ground and your back is pressed firmly against the backrest throughout the entire movement.",
+    "proTip": "يمكنك أداء هذا التمرين أثناء الوقوف لزيادة مشاركة عضلات البطن، ولكن أداؤه أثناء الجلوس مع مسند ظهر يساعد في التركيز على تنمية عضلات الكتف والذراعين.",
     "steps": [
-      "Sit on a bench that has a vertical backrest while in an upright position, holding a dumbbell in each hand immediately in front of your shoulders with your palms facing towards you.",
-      "Exhale and simultaneously raise your arms overhead and to the side as you rotate your palms to face away from you.",
-      "Continue raising your arms up overhead until they are fully extended with the dumbbells directly above your shoulders.",
-      "Inhale as you lower your arms and rotate your palms towards you, returning to the starting position."
+      "اجلس على مقعد به مسند ظهر رأسي، وامسك دمبل في كل يد أمام كتفيك مع توجيه راحتي يديك نحوك.",
+      "ازفر وارفع ذراعيك إلى الأعلى وإلى الجانبين في نفس الوقت أثناء تدوير راحتي يديك للخارج.",
+      "استمر في رفع الذراعين حتى تصبح ممدودة بالكامل فوق الكتفين.",
+      "استنشق أثناء خفض الذراعين وتدوير راحتي يديك نحوك للعودة إلى وضع البداية."
     ],
     "typeMuscle": {
-      "name": "Front Shoulder",
-      "description": "Front portion of your shoulder.",
+      "name": "الكتف الأمامي",
+      "description": "الجزء الأمامي من الكتف.",
       "image": "https://app.fitnessai.com/musclegroups/full/08751101-Deltoids-FRONT_transparent.png"
     },
     "equipment": [
       {
-        "name": "Dumbbells",
-        "advice": "When gripping dumbbells, make sure you position your hands in the middle of the bar and not at the end next to the plates."
-      } 
+        "name": "الدمبل",
+        "advice": "عند الإمساك بالدمبل، تأكد من وضع يديك في منتصف المقبض وليس بالقرب من الأوزان."
+      }
     ]
-  },
-  {
+  },{
     "id": 35,
     "name": "Cable Front Raises",
     "videoShortDemo": "https://app.fitnessai.com/exercises/01621101-Cable-Front-Raise-Shoulders.mp4",
     "videoInDepthExpl": "",
-    "proTip": "Make sure you do not raise the bar above the level of your shoulder.",
+    "proTip": "تأكد من عدم رفع البار أعلى من مستوى كتفك.",
     "steps": [
-      "Stand upright with your hands in front of your shoulders, holding the bar with an overhand grip.",
-      "Exhale and raise the bar, keeping your arms straight. Avoid using your legs or back to lift the bar.",
-      "Continue raising the bar until it reaches the level of your shoulder.",
-      "Inhale and lower the bar, returning to the starting position."
+      "قف بشكل مستقيم مع وضع يديك أمام كتفيك، ممسكًا بالبار بقبضة علوية.",
+      "ازفر وارفع البار مع إبقاء ذراعيك مستقيمتين. تجنب استخدام ساقيك أو ظهرك في الرفع.",
+      "استمر في رفع البار حتى يصل إلى مستوى كتفك.",
+      "استنشق الهواء ثم اخفض البار للعودة إلى وضع البداية."
     ],
     "typeMuscle": {
-      "name": "Front Shoulder",
-      "description": "Front portion of your shoulder.",
+      "name": "الكتف الأمامي",
+      "description": "الجزء الأمامي من الكتف.",
       "image": "https://app.fitnessai.com/musclegroups/full/08751101-Chest-LOWER_transparent.png"
     },
     "equipment": [
       {
-        "name": "Lat Bar",
-        "advice": "There are several types of lat bars, but you can use them interchangeably."
+        "name": "البار الجانبي (Lat Bar)",
+        "advice": "هناك عدة أنواع من أشرطة اللات، ولكن يمكنك استخدامها بالتبادل."
       },
       {
-        "name": "Single Pulley Tower",
-        "advice": "If unavailable, you can go to a machine with two towers instead. If you do this, just use one of the two towers."
+        "name": "برج بكرة فردي",
+        "advice": "إذا لم يكن متاحًا، يمكنك استخدام جهاز به برجين بدلاً من ذلك. إذا قمت بذلك، استخدم أحد البرجين فقط."
       }
     ]
   },
@@ -930,22 +929,22 @@
     "name": "Overhead Dumbbell Tricep Extension",
     "videoShortDemo": "https://app.fitnessai.com/exercises/04301201-Dumbbell-Standing-Triceps-Extension-Upper-Arms.mp4",
     "videoInDepthExpl": "",
-    "proTip": "Try to keep your elbows pointed forward throughout the movement for the greatest effect.",
+    "proTip": "حاول إبقاء مرفقيك موجهين إلى الأمام طوال الحركة لتحقيق أفضل تأثير.",
     "steps": [
-      "Stand upright holding a single dumbbell behind your head with both hands, with both arms flexed.",
-      "Exhale and extend your arms upwards to raise the dumbbell overhead.",
-      "Continue until your arms are fully extended overhead and straight, making sure you do not allow your upper arm to move.",
-      "Inhale and then lower the dumbbell, returning to the starting position."
+      "قف بشكل مستقيم مع الإمساك بدمبل واحد خلف رأسك بكلتا اليدين مع ثني الذراعين.",
+      "قم بالزفير ومد ذراعيك لأعلى لرفع الدمبل فوق رأسك.",
+      "استمر في الرفع حتى يتم تمديد ذراعيك بالكامل إلى الأعلى مع التأكد من عدم تحرك ذراعيك العلويتين.",
+      "خذ شهيقًا ثم اخفض الدمبل للعودة إلى وضع البداية."
     ],
     "typeMuscle": {
-      "name": "Lower Tricep",
-      "description": "Lower tricep, close to your elbow.",
+      "name": "عضلة الترايسبس السفلية",
+      "description": "الجزء السفلي من عضلة الترايسبس، بالقرب من المرفق.",
       "image": "https://app.fitnessai.com/musclegroups/full/08761101-Triceps-UPPER_transparent.png"
     },
     "equipment": [
       {
-        "name": "Dumbbells",
-        "advice": "When gripping dumbbells, make sure you position your hands in the middle of the bar and not at the end next to the plates."
+        "name": "الدامبلز",
+        "advice": "عند الإمساك بالدامبل، تأكد من وضع يديك في منتصف المقبض وليس عند نهايته بجوار الأوزان."
       }
     ]
   },
@@ -954,173 +953,172 @@
     "name": "EMOM Circuit (Every Minute on the Minute)",
     "videoShortDemo": "",
     "videoInDepthExpl": "https://www.youtube.com/watch?v=WXy8FDjrzCM",
-    "proTip": "Set a timer for one-minute intervals. Perform the prescribed reps of each exercise as quickly as possible within the minute, and rest for the remaining time before the next set starts.",
+    "proTip": "اضبط مؤقتًا على فواصل زمنية مدتها دقيقة واحدة. قم بتنفيذ عدد التكرارات الموصوفة لكل تمرين بأسرع ما يمكن خلال الدقيقة، ثم ارتح لبقية الوقت قبل بدء الجولة التالية.",
     "steps": [
-      "Set a timer for one-minute intervals.",
-      "Perform the designated number of reps for each exercise within the minute.",
-      "Rest for the remaining time before the next minute starts.",
-      "Repeat for the desired number of rounds."
+      "اضبط مؤقتًا على فواصل زمنية مدتها دقيقة واحدة.",
+      "قم بتنفيذ عدد التكرارات المحدد لكل تمرين خلال الدقيقة.",
+      "استرح خلال الوقت المتبقي قبل بدء الدقيقة التالية.",
+      "كرر العملية لعدد الجولات المطلوبة."
     ],
     "typeMuscle": {
-      "name": "Full Body",
-      "description": "An intense workout structure that targets multiple muscle groups, improving endurance, strength, and cardiovascular fitness.",
+      "name": "تمرين شامل للجسم",
+      "description": "نظام تمرين مكثف يستهدف مجموعات عضلية متعددة، مما يحسن القدرة على التحمل والقوة واللياقة القلبية الوعائية.",
       "image": ""
     },
     "equipment": [
       {
-        "name": "Timer",
-        "advice": "Use a stopwatch or an app with EMOM timers to keep track of time accurately."
+        "name": "مؤقت",
+        "advice": "استخدم ساعة توقيت أو تطبيقًا مزودًا بمؤقتات EMOM لمتابعة الوقت بدقة."
       }
     ]
-  },
-  {
-    "id": 38,
-    "name": "Decline Push-Ups",
-    "videoShortDemo": "",
-    "videoInDepthExpl": "https://www.youtube.com/watch?v=GjE-1Qfh7nc",
-    "proTip": "Keep your core tight and back straight throughout the movement to avoid straining your lower back.",
-    "steps": [
-      "Place your feet on an elevated surface like a bench or step.",
-      "Position your hands slightly wider than shoulder-width apart on the ground.",
-      "Lower your chest towards the floor while keeping your body in a straight line.",
-      "Push back up to the starting position while engaging your chest and arms.",
-      "Repeat for the desired number of reps."
-    ],
-    "typeMuscle": {
-      "name": "Chest, Shoulders, Triceps",
-      "description": "Targets the upper chest, shoulders, and triceps by increasing the difficulty of a standard push-up.",
-      "image": ""
+  },{
+      "id": 38,
+      "name": "Decline Push-Ups",
+      "videoShortDemo": "",
+      "videoInDepthExpl": "https://www.youtube.com/watch?v=GjE-1Qfh7nc",
+      "proTip": "حافظ على شد عضلات بطنك واستقامة ظهرك طوال الحركة لتجنب الضغط على أسفل الظهر.",
+      "steps": [
+        "ضع قدميك على سطح مرتفع مثل مقعد أو صندوق.",
+        "ضع يديك على الأرض بعرض الكتفين أو أوسع قليلًا.",
+        "انزل بصدرك نحو الأرض مع الحفاظ على استقامة جسمك.",
+        "ادفع جسمك للأعلى مرة أخرى إلى وضع البداية باستخدام صدرك وذراعيك.",
+        "كرر التمرين للعدد المطلوب من التكرارات."
+      ],
+      "typeMuscle": {
+        "name": "الصدر، الأكتاف، الترايسبس",
+        "description": "يستهدف الجزء العلوي من الصدر والكتفين والترايسبس عن طريق زيادة صعوبة تمرين الضغط العادي.",
+        "image": ""
+      },
+      "equipment": [
+        {
+          "name": "سطح مرتفع (مقعد، صندوق، درج)",
+          "advice": "كلما زاد الارتفاع، زادت صعوبة التمرين."
+        }
+      ]
     },
-    "equipment": [
-      {
-        "name": "Elevated Surface (Bench, Step, Box)",
-        "advice": "The higher the elevation, the more challenging the movement becomes."
-      }
-    ]
-  },
-  {
-    "id": 39,
-    "name": "Handstand Push-Ups",
-    "videoShortDemo": "",
-    "videoInDepthExpl": "https://www.youtube.com/watch?v=2be8OJySHIk",
-    "proTip": "Engage your core and control your descent to avoid excessive strain on your neck and shoulders.",
-    "steps": [
-      "Position yourself in a handstand position against a wall for support.",
-      "Keep your hands shoulder-width apart and elbows slightly tucked in.",
-      "Lower yourself down by bending your elbows until your head lightly touches the ground.",
-      "Push back up until your arms are fully extended.",
-      "Repeat for the desired number of reps."
-    ],
-    "typeMuscle": {
-      "name": "Shoulders, Triceps, Upper Chest",
-      "description": "An advanced bodyweight exercise that primarily strengthens the shoulders, triceps, and upper chest.",
-      "image": ""
+    {
+      "id": 39,
+      "name": "Handstand Push-Ups",
+      "videoShortDemo": "",
+      "videoInDepthExpl": "https://www.youtube.com/watch?v=2be8OJySHIk",
+      "proTip": "قم بشد عضلات البطن وتحكم في النزول لتجنب الضغط الزائد على الرقبة والكتفين.",
+      "steps": [
+        "قف في وضعية الوقوف على اليدين مع استخدام الحائط للدعم.",
+        "ضع يديك على الأرض بعرض الكتفين مع ثني المرفقين قليلًا.",
+        "اخفض جسمك ببطء حتى تلامس رأسك الأرض برفق.",
+        "ادفع جسمك للأعلى مرة أخرى حتى تصبح ذراعيك ممدودتين بالكامل.",
+        "كرر التمرين للعدد المطلوب من التكرارات."
+      ],
+      "typeMuscle": {
+        "name": "الكتفين، الترايسبس، الجزء العلوي من الصدر",
+        "description": "تمرين متقدم بوزن الجسم يعمل بشكل أساسي على تقوية الكتفين والترايسبس والجزء العلوي من الصدر.",
+        "image": ""
+      },
+      "equipment": [
+        {
+          "name": "حائط (للدعم)",
+          "advice": "تأكد من استخدام سطح مستقر للحفاظ على التوازن أثناء التمرين."
+        }
+      ]
     },
-    "equipment": [
-      {
-        "name": "Wall (for support)",
-        "advice": "Ensure a stable surface to maintain balance during the exercise."
-      }
-    ]
-  },
-  {
-    "id": 40,
-    "name": "Plank to Push-Up",
-    "videoShortDemo": "",
-    "videoInDepthExpl": "https://www.youtube.com/watch?v=IFR41E8lE7s",
-    "proTip": "Engage your core and avoid swaying your hips to maximize effectiveness.",
-    "steps": [
-      "Start in a forearm plank position with elbows directly under your shoulders.",
-      "Lift one hand at a time to transition into a standard push-up position.",
-      "Lower yourself back down to the plank position, one arm at a time.",
-      "Repeat the movement while alternating the leading arm.",
-      "Continue for the desired number of reps."
-    ],
-    "typeMuscle": {
-      "name": "Core, Chest, Triceps",
-      "description": "A dynamic movement that combines plank and push-ups to strengthen the core, chest, and triceps.",
-      "image": ""
+    {
+      "id": 40,
+      "name": "Plank to Push-Up",
+      "videoShortDemo": "",
+      "videoInDepthExpl": "https://www.youtube.com/watch?v=IFR41E8lE7s",
+      "proTip": "قم بشد عضلات البطن وتجنب تحريك الوركين لتحسين فعالية التمرين.",
+      "steps": [
+        "ابدأ في وضعية اللوح الأمامي (بلانك) مع وضع المرفقين تحت الكتفين مباشرة.",
+        "قم برفع يد واحدة في كل مرة للتحول إلى وضعية تمرين الضغط.",
+        "اخفض نفسك ببطء للعودة إلى وضعية اللوح، ذراعًا واحدة في كل مرة.",
+        "كرر الحركة مع تبديل الذراع التي تبدأ بها في كل مرة.",
+        "استمر في التمرين للعدد المطلوب من التكرارات."
+      ],
+      "typeMuscle": {
+        "name": "البطن، الصدر، الترايسبس",
+        "description": "تمرين ديناميكي يجمع بين تمرين اللوح وتمرين الضغط لتقوية عضلات البطن والصدر والترايسبس.",
+        "image": ""
+      },
+      "equipment": [
+        {
+          "name": "وزن الجسم",
+          "advice": "تأكد من استخدام سطح مستقر لمنع الانزلاق أثناء التمرين."
+        }
+      ]
+    },{
+      "id": 41,
+      "name": "Wide Push-Ups",
+      "videoShortDemo": "",
+      "videoInDepthExpl": "https://www.youtube.com/watch?v=R0YtRkSnuGg",
+      "proTip": "حافظ على مرفقيك بزاوية 45 درجة لتفعيل عضلات الصدر بشكل أفضل وتقليل الضغط على الكتفين.",
+      "steps": [
+        "ابدأ بوضعية الضغط مع وضع يديك أعرض من مستوى الكتفين.",
+        "اخفض صدرك نحو الأرض مع الحفاظ على جسمك في خط مستقيم.",
+        "ادفع جسمك للأعلى للعودة إلى وضعية البداية مع فرد ذراعيك بالكامل.",
+        "قم بتفعيل عضلات الصدر والعضلة ثلاثية الرؤوس أثناء التمرين.",
+        "كرر التمرين للعدد المطلوب من التكرارات."
+      ],
+      "typeMuscle": {
+        "name": "الصدر، الكتفين، العضلة ثلاثية الرؤوس",
+        "description": "يركز على الجزء الخارجي من عضلات الصدر مع إشراك الكتفين والعضلة ثلاثية الرؤوس.",
+        "image": ""
+      },
+      "equipment": [
+        {
+          "name": "وزن الجسم",
+          "advice": "قم بأداء التمرين على سطح ثابت لتجنب أي انزعاج في المعصم."
+        }
+      ]
     },
-    "equipment": [
-      {
-        "name": "Bodyweight",
-        "advice": "Ensure a stable surface to prevent slipping during the movement."
-      }
-    ]
-  },
-  {
-    "id": 41,
-    "name": "Wide Push-Ups",
-    "videoShortDemo": "",
-    "videoInDepthExpl": "https://www.youtube.com/watch?v=R0YtRkSnuGg",
-    "proTip": "Keep your elbows at a 45-degree angle to engage your chest more effectively and reduce shoulder strain.",
-    "steps": [
-      "Start in a push-up position with your hands placed wider than shoulder-width apart.",
-      "Lower your chest towards the ground while keeping your body in a straight line.",
-      "Push back up to the starting position, fully extending your arms.",
-      "Engage your chest and triceps while maintaining control throughout the movement.",
-      "Repeat for the desired number of reps."
-    ],
-    "typeMuscle": {
-      "name": "Chest, Shoulders, Triceps",
-      "description": "Emphasizes the outer chest muscles while also engaging the shoulders and triceps.",
-      "image": ""
+    {
+      "id": 42,
+      "name": "Shoulder Tap Push-Ups",
+      "videoShortDemo": "",
+      "videoInDepthExpl": "https://www.youtube.com/watch?v=mR8LhdGhI7U",
+      "proTip": "حافظ على عضلات البطن مشدودة لتجنب حركة الورك المفرطة أثناء لمس الكتف.",
+      "steps": [
+        "ابدأ بوضعية الضغط القياسية مع وضع يديك بعرض الكتفين.",
+        "اخفض جسمك نحو الأرض عن طريق ثني المرفقين.",
+        "ادفع جسمك للأعلى للعودة إلى وضعية البداية.",
+        "ارفع إحدى يديك عن الأرض والمس الكتف المقابل مع إبقاء عضلات البطن مشدودة.",
+        "أعد يدك إلى الأرض وكرر الحركة، بالتناوب بين الجانبين في كل تكرار."
+      ],
+      "typeMuscle": {
+        "name": "الصدر، عضلات البطن، الكتفين، العضلة ثلاثية الرؤوس",
+        "description": "يجمع بين تمرين الضغط وثبات الجذع لتحسين قوة الجزء العلوي من الجسم والتوازن.",
+        "image": ""
+      },
+      "equipment": [
+        {
+          "name": "وزن الجسم",
+          "advice": "تأكد من الحفاظ على توازن ثابت وتفعيل عضلات البطن للحفاظ على الوضعية الصحيحة."
+        }
+      ]
     },
-    "equipment": [
-      {
-        "name": "Bodyweight",
-        "advice": "Perform on a stable surface to prevent wrist discomfort."
-      }
-    ]
-  },
-  {
-    "id": 42,
-    "name": "Shoulder Tap Push-Ups",
-    "videoShortDemo": "",
-    "videoInDepthExpl": "https://www.youtube.com/watch?v=mR8LhdGhI7U",
-    "proTip": "Maintain a strong core to avoid excessive hip movement while tapping your shoulder.",
-    "steps": [
-      "Start in a standard push-up position with your hands shoulder-width apart.",
-      "Lower your body towards the floor by bending your elbows.",
-      "Push back up to the starting position.",
-      "Lift one hand off the ground and tap the opposite shoulder while keeping your core engaged.",
-      "Return your hand to the floor and repeat the movement, alternating sides with each rep."
-    ],
-    "typeMuscle": {
-      "name": "Chest, Core, Shoulders, Triceps",
-      "description": "Combines push-ups with core stability work to improve upper body strength and balance.",
-      "image": ""
-    },
-    "equipment": [
-      {
-        "name": "Bodyweight",
-        "advice": "Ensure a stable base and engage your core to maintain balance."
-      }
-    ]
-  },
-  {
-    "id": 43,
-    "name": "Tricep Bench Dips",
-    "videoShortDemo": "",
-    "videoInDepthExpl": "https://www.youtube.com/watch?v=6kALZikXxLc",
-    "proTip": "Keep your elbows tucked in to maximize tricep engagement and avoid unnecessary strain on your shoulders.",
-    "steps": [
-      "Sit on the edge of a bench and place your hands beside your hips, gripping the edge firmly.",
-      "Move your feet forward and slide your hips off the bench, supporting your weight with your arms.",
-      "Lower your body by bending your elbows until they reach about a 90-degree angle.",
-      "Push through your palms to lift yourself back to the starting position.",
-      "Repeat for the desired number of reps."
-    ],
-    "typeMuscle": {
-      "name": "Triceps, Shoulders, Chest",
-      "description": "Focuses on strengthening the triceps while also engaging the shoulders and chest.",
-      "image": ""
-    },
-    "equipment": [
-      {
-        "name": "Bench or Sturdy Surface",
-        "advice": "Ensure the bench is stable to prevent tipping over."
-      }
-    ]
-  }  
+    {
+      "id": 43,
+      "name": "Tricep Bench Dips",
+      "videoShortDemo": "",
+      "videoInDepthExpl": "https://www.youtube.com/watch?v=6kALZikXxLc",
+      "proTip": "حافظ على مرفقيك مضمومين لتفعيل عضلة الترايسبس بشكل أكبر وتجنب الضغط غير الضروري على الكتفين.",
+      "steps": [
+        "اجلس على حافة مقعد وضع يديك بجانب الوركين مع إمساك الحافة بإحكام.",
+        "حرك قدميك للأمام وانزل وركيك عن المقعد مع دعم وزنك بذراعيك.",
+        "اخفض جسمك عن طريق ثني مرفقيك حتى يصلان إلى زاوية 90 درجة تقريبًا.",
+        "ادفع بجسمك للأعلى باستخدام راحتي يديك للعودة إلى وضعية البداية.",
+        "كرر التمرين للعدد المطلوب من التكرارات."
+      ],
+      "typeMuscle": {
+        "name": "العضلة ثلاثية الرؤوس، الكتفين، الصدر",
+        "description": "يركز على تقوية عضلة الترايسبس مع إشراك الكتفين والصدر أيضًا.",
+        "image": ""
+      },
+      "equipment": [
+        {
+          "name": "مقعد أو سطح ثابت",
+          "advice": "تأكد من أن المقعد ثابت لتجنب الانقلاب أثناء التمرين."
+        }
+      ]
+    }  
 ]
+  
