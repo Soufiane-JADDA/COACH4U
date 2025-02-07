@@ -49,7 +49,7 @@ export default function TaskContainer(props: {
         <TouchableOpacity
           style={styles.button}
           onPress={() => {
-            router.push(`/(exercises)/ExerciseDetails?name=${props.title}`); 
+            router.push(`/(exercises)/ExerciseDetails?name=${props.title}`);
           }}
         >
           <AntDesign

@@ -27,7 +27,7 @@ export const generateNutrition = async () => {
     - Height: ${userData.height}cm
     - Weight: ${userData.weight}kg
     
-    Generate a daily meal plan, ensuring sufficient calories, protein, and macros for bulking. The response must be in JSON format with the following structure:
+    Generate a daily meal plan (summarized), ensuring sufficient calories, protein, and macros for bulking. The response must be in JSON format with the following structure:
     
     {
       "breakfast": "Description of the meal with ingredients and instructions",
@@ -35,10 +35,10 @@ export const generateNutrition = async () => {
       "dinner": "Description of the meal with ingredients and instructions",
       "snacks": ["List of snacks with descriptions"],
       "total_gains": {
-        "calories": "Total daily calories",
-        "protein": "Total daily protein intake",
-        "carbs": "Total daily carbohydrate intake",
-        "fats": "Total daily fat intake"
+        "calories": "Total daily calories (generate only a number)",
+        "protein": "Total daily protein intake (generate only a number)",
+        "carbs": "Total daily carbohydrate intake (generate only a number)",
+        "fats": "Total daily fat intake (generate only a number)"
       }
     }
     
@@ -52,7 +52,7 @@ export const generateNutrition = async () => {
     - Height: ${userData.height}cm
     - Weight: ${userData.weight}kg
     
-    Generate a daily meal plan with calorie deficit, balanced macros, and appetite control. The response must be in JSON format with this structure:
+    Generate a daily meal plan (summarized) with calorie deficit, balanced macros, and appetite control. The response must be in JSON format with this structure:
 
     {
       "breakfast": "Low-calorie meal with ingredients and preparation",
@@ -60,10 +60,10 @@ export const generateNutrition = async () => {
       "dinner": "Lean protein-focused meal with ingredients and preparation",
       "snacks": ["List of low-calorie snacks with descriptions"],
       "total_gains": {
-        "calories": "Total daily calories (deficit)",
-        "protein": "Protein intake to preserve muscle",
-        "carbs": "Controlled carbohydrate intake",
-        "fats": "Healthy fat intake"
+        "calories": "Total daily calories (generate only a number)",
+        "protein": "Protein intake to preserve muscle (generate only a number)",
+        "carbs": "Controlled carbohydrate intake (generate only a number)",
+        "fats": "Healthy fat intake (generate only a number)"
       }
     }
 

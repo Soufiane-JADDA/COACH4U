@@ -15,6 +15,7 @@ import TaskContainer from "@/components/task";
 import { NutritionTracking } from "@/components/nutrition";
 import { Exercise, gainWorkout, Reff } from "@/lib/generateWorkout";
 import { getReferences, getUserData } from "@/database/queries";
+import { useRouter } from "expo-router";
 
 export default function MainScreen() {
   const [workoutExercises, setWorkoutExercises] = useState<Exercise[] | null>(
@@ -23,11 +24,18 @@ export default function MainScreen() {
   const [completed, setCompleted] = useState(0);
   const [username, setUsername] = useState("User");
 
+  const router = useRouter();
+
   const handleReload = () => {
     handle();
   };
 
   const handle = async () => {
+    const goalData = ((await getReferences()) as any).goal;
+    if (!goalData) {
+      router.push("/pregoal");
+    }
+
     const ref = (await getReferences()) as Reff;
     setWorkoutExercises(gainWorkout({ ref }));
 

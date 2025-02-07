@@ -1,16 +1,29 @@
 import { getReferences, updateReferences } from "@/database/queries";
 import { Reff } from "@/lib/generateWorkout";
-import { Session } from "@supabase/supabase-js";
 import React, { useEffect, useState } from "react";
 import { StyleSheet, Text, TouchableOpacity, View } from "react-native";
-import {GestureHandlerRootView, ScrollView } from "react-native-gesture-handler";
+import {
+  GestureHandlerRootView,
+  ScrollView,
+} from "react-native-gesture-handler";
 
 export enum GoalType {
   gain = "Gain Muscles",
   lose = "Lose Weight",
 }
 
-const injuriesList = ["Chest", "Shoulder", "Triceps", "Back", "Legs", "Knees"];
+const injuriesList = [
+  "Chest",
+  "Shoulders",
+  "Triceps",
+  "Back",
+  "Rear Delts",
+  "Biceps",
+  "Quads",
+  "Hamstrings",
+  "Glutes",
+  "Calves",
+];
 
 export default function Goal() {
   const [goal, setGoal] = useState<GoalType>(GoalType.gain);
@@ -19,8 +32,8 @@ export default function Goal() {
 
   const toggleInjury = (injury: string) => {
     setSelectedInjuries((prev) =>
-      prev && prev.includes(injury) 
-        ? prev.filter((item) => item !== injury) 
+      prev && prev.includes(injury)
+        ? prev.filter((item) => item !== injury)
         : [...(prev || []), injury]
     );
   };
@@ -40,76 +53,92 @@ export default function Goal() {
   }, []);
 
   return (
-      <GestureHandlerRootView style={styles.wrapper}>
-        <ScrollView>
-      <View style={styles.container}>
-        <Text style={styles.title}>Choose Your Goal</Text>
-        <Text style={styles.paragraph}>
-          Set your goal to update your weekly tasks.
-        </Text>
+    <GestureHandlerRootView style={styles.wrapper}>
+      <ScrollView contentContainerStyle={styles.scrollContainer}>
+        <View style={styles.container}>
+          <Text style={styles.title}>Choose Your Goal</Text>
+          <Text style={styles.paragraph}>
+            Set your goal to update your weekly tasks.
+          </Text>
 
-        {/* Goal Selection */}
-        {[GoalType.gain, GoalType.lose].map((type) => (
-          <TouchableOpacity
-            key={type}
-            style={goal === type ? styles.selectedButton : styles.button}
-            onPress={() => setGoal(type)}
-          >
-            <Text style={styles.buttonText}>
-              {type.charAt(0).toUpperCase() + type.slice(1)}
-            </Text>
-          </TouchableOpacity>
-        ))}
+          {/* Goal Selection Section */}
+          <View style={styles.section}>
+            <Text style={styles.sectionTitle}>Goal Selection</Text>
+            <View style={styles.row}>
+              {[GoalType.gain, GoalType.lose].map((type) => (
+                <TouchableOpacity
+                  key={type}
+                  style={[
+                    goal === type ? styles.selectedButton : styles.button,
+                    styles.flexButton,
+                  ]}
+                  onPress={() => setGoal(type)}
+                >
+                  <Text style={styles.buttonText}>
+                    {type.charAt(0).toUpperCase() + type.slice(1)}
+                  </Text>
+                </TouchableOpacity>
+              ))}
+            </View>
+          </View>
 
-        {/* Equipment Selection */}
-        <Text style={styles.subTitle}>Do you have equipment?</Text>
-        <View style={styles.optionRow}>
-          <TouchableOpacity
-            style={[
-              hasEquipment === true ? styles.selectedButton : styles.button,
-              { width: "48%" },
-            ]}
-            onPress={() => setHasEquipment(true)}
-          >
-            <Text style={styles.buttonText}>Yes</Text>
-          </TouchableOpacity>
-          <TouchableOpacity
-            style={[
-              hasEquipment === false ? styles.selectedButton : styles.button,
-              { width: "48%" },
-            ]}
-            onPress={() => setHasEquipment(false)}
-          >
-            <Text style={styles.buttonText}>No</Text>
-          </TouchableOpacity>
-        </View>
+          {/* Equipment Selection Section */}
+          <View style={styles.section}>
+            <Text style={styles.sectionTitle}>Equipment Availability</Text>
+            <View style={styles.row}>
+              <TouchableOpacity
+                style={[
+                  hasEquipment ? styles.selectedButton : styles.button,
+                  styles.flexButton,
+                ]}
+                onPress={() => setHasEquipment(true)}
+              >
+                <Text style={styles.buttonText}>Yes</Text>
+              </TouchableOpacity>
+              <TouchableOpacity
+                style={[
+                  !hasEquipment ? styles.selectedButton : styles.button,
+                  styles.flexButton,
+                ]}
+                onPress={() => setHasEquipment(false)}
+              >
+                <Text style={styles.buttonText}>No</Text>
+              </TouchableOpacity>
+            </View>
+          </View>
 
-        {/* Injury Selection */}
-        <Text style={styles.subTitle}>Do you have any injuries?</Text>
-        <View style={styles.injuryContainer}>
-          {injuriesList.map((injury) => (
-            <TouchableOpacity
-              key={injury}
-              style={
-                (selectedInjuries || []).includes(injury)
-                  ? styles.selectedButton
-                  : styles.button
-              }
-              onPress={() => toggleInjury(injury)}
+          {/* Injury Selection Section */}
+          <View style={styles.section}>
+            <Text style={styles.sectionTitle}>Injuries</Text>
+            <ScrollView
+              horizontal
+              showsHorizontalScrollIndicator={false}
+              contentContainerStyle={styles.horizontalContainer}
             >
-              <Text style={styles.buttonText}>{injury}</Text>
-            </TouchableOpacity>
-          ))}
-        </View>
+              {injuriesList.map((injury) => (
+                <TouchableOpacity
+                  key={injury}
+                  style={[
+                    (selectedInjuries || []).includes(injury)
+                      ? styles.selectedButton
+                      : styles.button,
+                    styles.horizontalButton,
+                  ]}
+                  onPress={() => toggleInjury(injury)}
+                >
+                  <Text style={styles.buttonText}>{injury}</Text>
+                </TouchableOpacity>
+              ))}
+            </ScrollView>
+          </View>
 
-        {/* Apply Button */}
-        <TouchableOpacity style={styles.apply} onPress={() => applyChanges()}>
-          <Text style={{ color: "#fff", fontSize: 16 }}>Apply</Text>
-        </TouchableOpacity>
-      </View>
-    </ScrollView>
+          {/* Apply Button */}
+          <TouchableOpacity style={styles.apply} onPress={applyChanges}>
+            <Text style={styles.applyText}>Apply</Text>
+          </TouchableOpacity>
+        </View>
+      </ScrollView>
     </GestureHandlerRootView>
-    
   );
 }
 
@@ -118,20 +147,23 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: "#212121",
   },
-  container: {
-    backgroundColor: "#212121",
-    width: "100%",
-    height: "100%",
-    display: "flex",
+  scrollContainer: {
+    flexGrow: 1,
     justifyContent: "center",
     alignItems: "center",
-    padding: 20,
+    paddingVertical: 20,
+  },
+  container: {
+    backgroundColor: "#212121",
+    width: "90%",
+    alignItems: "center",
   },
   title: {
     fontSize: 26,
     fontWeight: "bold",
     color: "#fff",
     marginBottom: 10,
+    textAlign: "center",
   },
   paragraph: {
     fontSize: 16,
@@ -139,14 +171,22 @@ const styles = StyleSheet.create({
     textAlign: "center",
     marginBottom: 20,
   },
-  subTitle: {
-    fontSize: 18,
-    color: "#fff",
-    fontWeight: "bold",
+  section: {
+    width: "100%",
     marginVertical: 10,
   },
+  sectionTitle: {
+    fontSize: 20,
+    fontWeight: "bold",
+    color: "#fff",
+    marginBottom: 10,
+    textAlign: "center",
+  },
+  row: {
+    flexDirection: "row",
+    justifyContent: "space-between",
+  },
   button: {
-    width: "80%",
     height: 50,
     justifyContent: "center",
     alignItems: "center",
@@ -154,9 +194,9 @@ const styles = StyleSheet.create({
     borderColor: "#B4B4B4",
     borderWidth: 2,
     marginVertical: 5,
+    paddingHorizontal: 10,
   },
   selectedButton: {
-    width: "80%",
     height: 50,
     backgroundColor: "rgba(255, 103, 0, 0.2)",
     justifyContent: "center",
@@ -165,29 +205,35 @@ const styles = StyleSheet.create({
     borderColor: "#FF6700",
     borderWidth: 2,
     marginVertical: 5,
+    paddingHorizontal: 10,
   },
-  buttonText: {
-    color: "#fff",
-    fontSize: 18,
+  flexButton: {
+    flex: 1,
+    marginHorizontal: 5,
   },
-  optionRow: {
-    flexDirection: "row",
-    justifyContent: "space-between",
-    width: "80%",
+  horizontalContainer: {
+    alignItems: "center",
+    paddingHorizontal: 5,
   },
-  injuryContainer: {
-    flexDirection: "row",
-    flexWrap: "wrap",
-    justifyContent: "center",
-    width: "100%",
+  horizontalButton: {
+    marginHorizontal: 5,
+    minWidth: 100, // Ensures the button has enough width for the label
   },
   apply: {
     marginTop: 30,
-    width: "80%",
+    width: "100%",
     height: 50,
     backgroundColor: "#FF6700",
     justifyContent: "center",
     alignItems: "center",
     borderRadius: 8,
+  },
+  applyText: {
+    color: "#fff",
+    fontSize: 16,
+  },
+  buttonText: {
+    color: "#fff",
+    fontSize: 16,
   },
 });

@@ -26,10 +26,12 @@ export default function ExerciseDetails() {
         .catch((error) => console.warn("Video playback error: ", error));
     }
   }, []);
-  
+
   // Find the exercise by ID or Name
   const exercise = data.find(
-    (item) => item.id.toString() === id || item.name.toLowerCase() === name?.toLowerCase()
+    (item) =>
+      item.id.toString() === id ||
+      item.name.toLowerCase() === name?.toLowerCase()
   );
 
   if (!exercise) {
