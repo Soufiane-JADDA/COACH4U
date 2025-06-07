@@ -15,8 +15,9 @@ export type MealPlan = {
 };
 
 export const generateNutrition = async () => {
+  const YOUR_API_KEY = "yOUR_API_KEY";
   const GEMINI_URL =
-    "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyByr0oyZorVuKJkkmxOpcdTif35WTOqTKo";
+    `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${YOUR_API_KEY}`;
 
   const userData = (await getUserData()) as any;
 
